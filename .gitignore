@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# R
+.Rhistory
+.Rapp.history
+.RData
+
+# Mac generated resource fork files
+._*
+
+# Cache & data
+/cache/
+/*_cache/
+/write/
+*.loom
+*.hdf5
+*.feathre
+*.h5ad
