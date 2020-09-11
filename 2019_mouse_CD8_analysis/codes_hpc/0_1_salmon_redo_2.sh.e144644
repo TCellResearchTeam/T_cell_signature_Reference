@@ -1,0 +1,314 @@
+Version Info: ### PLEASE UPGRADE SALMON ###
+### A newer version of salmon with bug fixes is available. ####
+###
+The newest version, available at https://github.com/COMBINE-lab/salmon/releases
+contains new features, improvements, and bug fixes; please upgrade at your
+earliest convenience.
+###
+Sign up for the salmon mailing list to hear about new versions, features and updates at:
+https://oceangenomics.com/subscribe
+###
+Version Info: ### PLEASE UPGRADE SALMON ###
+### A newer version of salmon with bug fixes is available. ####
+###
+The newest version, available at https://github.com/COMBINE-lab/salmon/releases
+contains new features, improvements, and bug fixes; please upgrade at your
+earliest convenience.
+###
+Sign up for the salmon mailing list to hear about new versions, features and updates at:
+https://oceangenomics.com/subscribe
+###
+Version Info: ### PLEASE UPGRADE SALMON ###
+### A newer version of salmon with bug fixes is available. ####
+###
+The newest version, available at https://github.com/COMBINE-lab/salmon/releases
+contains new features, improvements, and bug fixes; please upgrade at your
+earliest convenience.
+###
+Sign up for the salmon mailing list to hear about new versions, features and updates at:
+https://oceangenomics.com/subscribe
+###
+### salmon (mapping-based) v0.14.1
+### [ program ] => salmon 
+### [ command ] => quant 
+### [ index ] => { /gpfs/group/pipkin/hdiao/ref_resources/GRCm38.salmon.index }
+### [ libType ] => { A }
+### [ mates1 ] => { SRR5799994_1.fastq }
+### [ mates2 ] => { SRR5799994_2.fastq }
+### [ validateMappings ] => { }
+### [ output ] => { SRR5799994 }
+### salmon (mapping-based) v0.14.1
+### [ program ] => salmon 
+### [ command ] => quant 
+### [ index ] => { /gpfs/group/pipkin/hdiao/ref_resources/GRCm38.salmon.index }
+### [ libType ] => { A }
+### [ mates1 ] => { SRR5799992_1.fastq }
+### [ mates2 ] => { SRR5799992_2.fastq }
+### [ validateMappings ] => { }
+### [ output ] => { SRR5799992 }
+### salmon (mapping-based) v0.14.1
+### [ program ] => salmon 
+### [ command ] => quant 
+### [ index ] => { /gpfs/group/pipkin/hdiao/ref_resources/GRCm38.salmon.index }
+### [ libType ] => { A }
+### [ mates1 ] => { SRR5799988_1.fastq }
+### [ mates2 ] => { SRR5799988_2.fastq }
+### [ validateMappings ] => { }
+### [ output ] => { SRR5799988 }
+Logs will be written to SRR5799994/logs
+Logs will be written to SRR5799992/logs
+Logs will be written to SRR5799988/logs
+[2020-06-02 10:06:26.928] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2020-06-02 10:06:26.928] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2020-06-02 10:06:26.928] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2020-06-02 10:06:26.928] [jointLog] [info] Usage of --validateMappings, without --hardFilter implies use of range factorization. rangeFactorizationBins is being set to 4
+[2020-06-02 10:06:26.928] [jointLog] [info] Usage of --validateMappings implies a default consensus slack of 0.2. Setting consensusSlack to 0.2.
+[2020-06-02 10:06:26.928] [jointLog] [info] parsing read library format
+[2020-06-02 10:06:26.928] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2020-06-02 10:06:26.928] [jointLog] [info] There is 1 library.
+[2020-06-02 10:06:26.928] [jointLog] [info] Usage of --validateMappings, without --hardFilter implies use of range factorization. rangeFactorizationBins is being set to 4
+[2020-06-02 10:06:26.928] [jointLog] [info] Usage of --validateMappings implies a default consensus slack of 0.2. Setting consensusSlack to 0.2.
+[2020-06-02 10:06:26.928] [jointLog] [info] parsing read library format
+[2020-06-02 10:06:26.928] [jointLog] [info] There is 1 library.
+[2020-06-02 10:06:26.929] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2020-06-02 10:06:26.929] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2020-06-02 10:06:26.929] [jointLog] [info] Usage of --validateMappings, without --hardFilter implies use of range factorization. rangeFactorizationBins is being set to 4
+[2020-06-02 10:06:26.929] [jointLog] [info] Usage of --validateMappings implies a default consensus slack of 0.2. Setting consensusSlack to 0.2.
+[2020-06-02 10:06:26.929] [jointLog] [info] parsing read library format
+[2020-06-02 10:06:26.929] [jointLog] [info] There is 1 library.
+[2020-06-02 10:06:26.986] [jointLog] [info] Loading Quasi index
+[2020-06-02 10:06:26.985] [jointLog] [info] Loading Quasi index
+[2020-06-02 10:06:26.986] [jointLog] [info] Loading 32-bit quasi index
+[2020-06-02 10:06:26.985] [jointLog] [info] Loading 32-bit quasi index
+[2020-06-02 10:06:26.985] [jointLog] [info] Loading Quasi index
+[2020-06-02 10:06:26.985] [jointLog] [info] Loading 32-bit quasi index
+[2020-06-02 10:06:26.986] [stderrLog] [info] Loading Suffix Array 
+[2020-06-02 10:06:26.985] [stderrLog] [info] Loading Suffix Array 
+[2020-06-02 10:06:26.985] [stderrLog] [info] Loading Suffix Array 
+Version Info: ### PLEASE UPGRADE SALMON ###
+### A newer version of salmon with bug fixes is available. ####
+###
+The newest version, available at https://github.com/COMBINE-lab/salmon/releases
+contains new features, improvements, and bug fixes; please upgrade at your
+earliest convenience.
+###
+Sign up for the salmon mailing list to hear about new versions, features and updates at:
+https://oceangenomics.com/subscribe
+###
+Version Info: ### PLEASE UPGRADE SALMON ###
+### A newer version of salmon with bug fixes is available. ####
+###
+The newest version, available at https://github.com/COMBINE-lab/salmon/releases
+contains new features, improvements, and bug fixes; please upgrade at your
+earliest convenience.
+###
+Sign up for the salmon mailing list to hear about new versions, features and updates at:
+https://oceangenomics.com/subscribe
+###
+Version Info: ### PLEASE UPGRADE SALMON ###
+### A newer version of salmon with bug fixes is available. ####
+###
+The newest version, available at https://github.com/COMBINE-lab/salmon/releases
+contains new features, improvements, and bug fixes; please upgrade at your
+earliest convenience.
+###
+Sign up for the salmon mailing list to hear about new versions, features and updates at:
+https://oceangenomics.com/subscribe
+###
+Version Info: ### PLEASE UPGRADE SALMON ###
+### A newer version of salmon with bug fixes is available. ####
+###
+The newest version, available at https://github.com/COMBINE-lab/salmon/releases
+contains new features, improvements, and bug fixes; please upgrade at your
+earliest convenience.
+###
+Sign up for the salmon mailing list to hear about new versions, features and updates at:
+https://oceangenomics.com/subscribe
+###
+### salmon (mapping-based) v0.14.1
+### [ program ] => salmon 
+### [ command ] => quant 
+### [ index ] => { /gpfs/group/pipkin/hdiao/ref_resources/GRCm38.salmon.index }
+### [ libType ] => { A }
+### [ mates1 ] => { SRR5799989_1.fastq }
+### [ mates2 ] => { SRR5799989_2.fastq }
+### [ validateMappings ] => { }
+### [ output ] => { SRR5799989 }
+### salmon (mapping-based) v0.14.1
+### [ program ] => salmon 
+### [ command ] => quant 
+### [ index ] => { /gpfs/group/pipkin/hdiao/ref_resources/GRCm38.salmon.index }
+### [ libType ] => { A }
+### [ mates1 ] => { SRR5799990_1.fastq }
+### [ mates2 ] => { SRR5799990_2.fastq }
+### [ validateMappings ] => { }
+### [ output ] => { SRR5799990 }
+### salmon (mapping-based) v0.14.1
+### [ program ] => salmon 
+### [ command ] => quant 
+### [ index ] => { /gpfs/group/pipkin/hdiao/ref_resources/GRCm38.salmon.index }
+### [ libType ] => { A }
+### [ mates1 ] => { SRR5799991_1.fastq }
+### [ mates2 ] => { SRR5799991_2.fastq }
+### [ validateMappings ] => { }
+### [ output ] => { SRR5799991 }
+### salmon (mapping-based) v0.14.1
+### [ program ] => salmon 
+### [ command ] => quant 
+### [ index ] => { /gpfs/group/pipkin/hdiao/ref_resources/GRCm38.salmon.index }
+### [ libType ] => { A }
+### [ mates1 ] => { SRR5799993_1.fastq }
+### [ mates2 ] => { SRR5799993_2.fastq }
+### [ validateMappings ] => { }
+### [ output ] => { SRR5799993 }
+Logs will be written to SRR5799989/logs
+Logs will be written to SRR5799991/logs
+Logs will be written to SRR5799993/logs
+Logs will be written to SRR5799990/logs
+[2020-06-02 10:06:32.047] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2020-06-02 10:06:32.047] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2020-06-02 10:06:32.047] [jointLog] [info] Usage of --validateMappings, without --hardFilter implies use of range factorization. rangeFactorizationBins is being set to 4
+[2020-06-02 10:06:32.047] [jointLog] [info] Usage of --validateMappings implies a default consensus slack of 0.2. Setting consensusSlack to 0.2.
+[2020-06-02 10:06:32.047] [jointLog] [info] parsing read library format
+[2020-06-02 10:06:32.047] [jointLog] [info] There is 1 library.
+[2020-06-02 10:06:32.048] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2020-06-02 10:06:32.048] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2020-06-02 10:06:32.048] [jointLog] [info] Usage of --validateMappings, without --hardFilter implies use of range factorization. rangeFactorizationBins is being set to 4
+[2020-06-02 10:06:32.048] [jointLog] [info] Usage of --validateMappings implies a default consensus slack of 0.2. Setting consensusSlack to 0.2.
+[2020-06-02 10:06:32.048] [jointLog] [info] parsing read library format
+[2020-06-02 10:06:32.048] [jointLog] [info] There is 1 library.
+[2020-06-02 10:06:32.060] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2020-06-02 10:06:32.060] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2020-06-02 10:06:32.060] [jointLog] [info] Usage of --validateMappings, without --hardFilter implies use of range factorization. rangeFactorizationBins is being set to 4
+[2020-06-02 10:06:32.060] [jointLog] [info] Usage of --validateMappings implies a default consensus slack of 0.2. Setting consensusSlack to 0.2.
+[2020-06-02 10:06:32.060] [jointLog] [info] parsing read library format
+[2020-06-02 10:06:32.060] [jointLog] [info] There is 1 library.
+[2020-06-02 10:06:32.197] [stderrLog] [info] Loading Suffix Array 
+[2020-06-02 10:06:32.197] [jointLog] [info] Loading Quasi index
+[2020-06-02 10:06:32.197] [jointLog] [info] Loading 32-bit quasi index
+[2020-06-02 10:06:32.332] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2020-06-02 10:06:32.332] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2020-06-02 10:06:32.332] [jointLog] [info] Usage of --validateMappings, without --hardFilter implies use of range factorization. rangeFactorizationBins is being set to 4
+[2020-06-02 10:06:32.332] [jointLog] [info] Usage of --validateMappings implies a default consensus slack of 0.2. Setting consensusSlack to 0.2.
+[2020-06-02 10:06:32.332] [jointLog] [info] parsing read library format
+[2020-06-02 10:06:32.332] [jointLog] [info] There is 1 library.
+[2020-06-02 10:06:32.496] [stderrLog] [info] Loading Suffix Array 
+[2020-06-02 10:06:32.496] [jointLog] [info] Loading Quasi index
+[2020-06-02 10:06:32.496] [jointLog] [info] Loading 32-bit quasi index
+[2020-06-02 10:06:32.521] [stderrLog] [info] Loading Suffix Array 
+[2020-06-02 10:06:32.521] [jointLog] [info] Loading Quasi index
+[2020-06-02 10:06:32.521] [jointLog] [info] Loading 32-bit quasi index
+[2020-06-02 10:06:32.892] [stderrLog] [info] Loading Suffix Array 
+[2020-06-02 10:06:32.892] [jointLog] [info] Loading Quasi index
+[2020-06-02 10:06:32.892] [jointLog] [info] Loading 32-bit quasi index
+[2020-06-02 10:06:51.035] [stderrLog] [info] Loading Transcript Info 
+[2020-06-02 10:06:51.035] [stderrLog] [info] Loading Transcript Info 
+[2020-06-02 10:06:51.035] [stderrLog] [info] Loading Transcript Info 
+[2020-06-02 10:06:59.054] [stderrLog] [info] Loading Rank-Select Bit Array
+[2020-06-02 10:06:59.054] [stderrLog] [info] Loading Rank-Select Bit Array
+[2020-06-02 10:06:59.054] [stderrLog] [info] Loading Rank-Select Bit Array
+[2020-06-02 10:07:00.980] [stderrLog] [info] There were 117,081 set bits in the bit array
+[2020-06-02 10:07:01.053] [stderrLog] [info] Computing transcript lengths
+[2020-06-02 10:07:01.054] [stderrLog] [info] Waiting to finish loading hash
+[2020-06-02 10:07:00.980] [stderrLog] [info] There were 117,081 set bits in the bit array
+[2020-06-02 10:07:01.053] [stderrLog] [info] Computing transcript lengths
+[2020-06-02 10:07:01.053] [stderrLog] [info] Waiting to finish loading hash
+[2020-06-02 10:07:00.980] [stderrLog] [info] There were 117,081 set bits in the bit array
+[2020-06-02 10:07:01.053] [stderrLog] [info] Computing transcript lengths
+[2020-06-02 10:07:01.053] [stderrLog] [info] Waiting to finish loading hash
+[2020-06-02 10:07:01.438] [stderrLog] [info] Loading Transcript Info 
+[2020-06-02 10:07:01.438] [stderrLog] [info] Loading Transcript Info 
+[2020-06-02 10:07:01.438] [stderrLog] [info] Loading Transcript Info 
+[2020-06-02 10:07:01.438] [stderrLog] [info] Loading Transcript Info 
+[2020-06-02 10:07:07.790] [stderrLog] [info] Loading Rank-Select Bit Array
+[2020-06-02 10:07:07.790] [stderrLog] [info] Loading Rank-Select Bit Array
+[2020-06-02 10:07:07.790] [stderrLog] [info] Loading Rank-Select Bit Array
+[2020-06-02 10:07:07.790] [stderrLog] [info] Loading Rank-Select Bit Array
+[2020-06-02 10:07:09.163] [stderrLog] [info] There were 117,081 set bits in the bit array
+[2020-06-02 10:07:09.237] [stderrLog] [info] Computing transcript lengths
+[2020-06-02 10:07:09.237] [stderrLog] [info] Waiting to finish loading hash
+[2020-06-02 10:07:09.163] [stderrLog] [info] There were 117,081 set bits in the bit array
+[2020-06-02 10:07:09.237] [stderrLog] [info] Computing transcript lengths
+[2020-06-02 10:07:09.238] [stderrLog] [info] Waiting to finish loading hash
+[2020-06-02 10:07:09.163] [stderrLog] [info] There were 117,081 set bits in the bit array
+[2020-06-02 10:07:09.237] [stderrLog] [info] Computing transcript lengths
+[2020-06-02 10:07:09.237] [stderrLog] [info] Waiting to finish loading hash
+[2020-06-02 10:07:09.163] [stderrLog] [info] There were 117,081 set bits in the bit array
+[2020-06-02 10:07:09.237] [stderrLog] [info] Computing transcript lengths
+[2020-06-02 10:07:09.237] [stderrLog] [info] Waiting to finish loading hash
+[2020-06-02 10:07:11.015] [jointLog] [info] done
+[2020-06-02 10:07:11.015] [jointLog] [info] Index contained 117,081 targets
+[2020-06-02 10:07:11.015] [jointLog] [info] done
+[2020-06-02 10:07:11.015] [jointLog] [info] Index contained 117,081 targets
+[2020-06-02 10:07:11.015] [jointLog] [info] done
+[2020-06-02 10:07:11.015] [jointLog] [info] Index contained 117,081 targets
+
+
+
+
+
+
+
+
+
+
+
+
+[2020-06-02 10:07:11.015] [stderrLog] [info] Done loading index
+[2020-06-02 10:07:11.015] [stderrLog] [info] Done loading index
+[2020-06-02 10:07:11.015] [stderrLog] [info] Done loading index
+[2020-06-02 10:07:19.683] [jointLog] [info] done
+[2020-06-02 10:07:19.683] [jointLog] [info] Index contained 117,081 targets
+[2020-06-02 10:07:19.683] [stderrLog] [info] Done loading index
+
+
+
+
+[2020-06-02 10:07:19.683] [jointLog] [info] done
+[2020-06-02 10:07:19.683] [jointLog] [info] Index contained 117,081 targets
+
+
+
+
+[2020-06-02 10:07:19.687] [jointLog] [info] done
+[2020-06-02 10:07:19.687] [jointLog] [info] Index contained 117,081 targets
+[2020-06-02 10:07:19.685] [jointLog] [info] done
+[2020-06-02 10:07:19.685] [jointLog] [info] Index contained 117,081 targets
+
+
+
+
+[2020-06-02 10:07:19.683] [stderrLog] [info] Done loading index
+[2020-06-02 10:07:19.687] [stderrLog] [info] Done loading index
+[2020-06-02 10:07:19.685] [stderrLog] [info] Done loading index
+
+
+
+
+[A[32mprocessed[31m 500,000 [32mfragments[0m
+hits: 85,378, hits per frag:  0.1817[2020-06-02 10:07:24.864] [jointLog] [info] Automatically detected most likely library type as IU
+[A[32mprocessed[31m 500,000 [32mfragments[0m
+hits: 109,910, hits per frag:  0.240055[A[32mprocessed[31m 500,000 [32mfragments[0m
+hits: 95,849, hits per frag:  0.212244[2020-06-02 10:07:25.130] [jointLog] [info] Automatically detected most likely library type as IU
+[2020-06-02 10:07:27.775] [jointLog] [info] Automatically detected most likely library type as IU
+[A[32mprocessed[31m 1,000,000 [32mfragments[0m
+hits: 171,113, hits per frag:  0.180323[A[32mprocessed[31m 500,000 [32mfragments[0m
+hits: 79,534, hits per frag:  0.257915[A[32mprocessed[31m 500,000 [32mfragments[0m
+hits: 85,165, hits per frag:  0.171388[A[32mprocessed[31m 500,000 [32mfragments[0m
+hits: 81,659, hits per frag:  0.173249[A[32mprocessed[31m 500,000 [32mfragments[0m
+hits: 97,943, hits per frag:  0.314438[A[32mprocessed[31m 1,000,000 [32mfragments[0m
+hits: 219,085, hits per frag:  0.235612[A[32mprocessed[31m 1,000,000 [32mfragments[0m
+hits: 192,363, hits per frag:  0.219299[2020-06-02 10:07:46.169] [jointLog] [info] Automatically detected most likely library type as IU
+[2020-06-02 10:07:47.526] [jointLog] [info] Automatically detected most likely library type as IU
+[2020-06-02 10:07:48.068] [jointLog] [info] Automatically detected most likely library type as IU
+[A[32mprocessed[31m 1,000,000 [32mfragments[0m
+hits: 160,703, hits per frag:  0.170737[A[32mprocessed[31m 1,500,000 [32mfragments[0m
+hits: 256,517, hits per frag:  0.171883[A[32mprocessed[31m 1,000,000 [32mfragments[0m
+hits: 170,530, hits per frag:  0.208254[A[32mprocessed[31m 1,000,000 [32mfragments[0m
+hits: 163,112, hits per frag:  0.174532[A[32mprocessed[31m 1,000,000 [32mfragments[0m
+hits: 194,953, hits per frag:  0.206892[A[32mprocessed[31m 1,500,000 [32mfragments[0m
+hits: 288,906, hits per frag:  0.194831[A[32mprocessed[31m 1,500,000 [32mfragments[0m
+hits: 329,336, hits per frag:  0.22168[2020-06-02 10:08:10.524] [jointLog] [info] Automatically detected most likely library type as IU
+[A[32mprocessed[31m 2,000,000 [32mfragments[0m
+hits: 343,182, hits per frag:  0.17711[A[32mprocessed[31m 1,500,000 [32mfragments[0m
+hits: 242,254, hits per frag:  0.181963

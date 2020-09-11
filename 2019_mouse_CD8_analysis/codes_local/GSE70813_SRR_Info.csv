@@ -1,0 +1,33 @@
+Run,Cell_description,Tissue,Genotype,Cell_type,Name
+SRR2097382,CD8 T cells,Bone marrow,Wild type,WT,WT_1
+SRR2097383,CD8 T cells,Bone marrow,Hobit knockout,Hobit_KO,Hobit_KO_1
+SRR2097384,CD8 T cells,Bone marrow,Blimp1 knockout,Blimp1_KO,Blimp1_KO_1
+SRR2097385,CD8 T cells,Bone marrow,Blimp1/Hobit double knockout,Hobit-Blimp1_KO,Hobit-Blimp1_KO_1
+SRR2097386,CD8 T cells,Bone marrow,Wild type,WT,WT_2
+SRR2097387,CD8 T cells,Bone marrow,Hobit knockout,Hobit_KO,Hobit_KO_2
+SRR2097388,CD8 T cells,Bone marrow,Blimp1 knockout,Blimp1_KO,Blimp1_KO_2
+SRR2097389,CD8 T cells,Bone marrow,Blimp1/Hobit double knockout,Hobit-Blimp1_KO,Hobit-Blimp1_KO_2
+SRR2097390,CD8 T cells,Bone marrow,Wild type,WT,WT_3
+SRR2097391,CD8 T cells,Bone marrow,Hobit knockout,Hobit_KO,Hobit_KO_3
+SRR2097392,CD8 T cells,Bone marrow,Blimp1 knockout,Blimp1_KO,Blimp1_KO_3
+SRR2097393,CD8 T cells,Bone marrow,Blimp1/Hobit double knockout,Hobit-Blimp1_KO,Hobit-Blimp1_KO_3
+SRR2097394,Naive CD8 T cells,Spleen,Wild type,NAV,NAV_1
+SRR2097395,Central memory CD8 T cells,Spleen,Wild type,Sp_TCM,Sp_TCM_1
+SRR2097396,Effector memory CD8 T cells,Spleen,Wild type,Sp_TEM,Sp_TEM_1
+SRR2097397,Effector memory CD8 T cells,Liver,Wild type,Liver_TEM,Liver_TEM_1
+SRR2097398,Tissue-resident memory CD8 T cells,Liver,Wild type,Liver_TRM,Liver_TRM_1
+SRR2097399,Tissue-resident memory CD8 T cells,Gut,Wild type,Gut_TRM,Gut_TRM_1
+SRR2097403,Naive CD8 T cells,Spleen,Wild type,NAV,NAV_2
+SRR2097404,Central memory CD8 T cells,Spleen,Wild type,Sp_TCM,Sp_TCM_2
+SRR2097405,Effector memory CD8 T cells,Spleen,Wild type,Sp_TEM,Sp_TEM_2
+SRR2097406,Effector memory CD8 T cells,Liver,Wild type,Liver_TEM,Liver_TEM_2
+SRR2097407,Tissue-resident memory CD8 T cells,Liver,Wild type,Liver_TRM,Liver_TRM_2
+SRR2097408,Tissue-resident memory CD8 T cells,Gut,Wild type,Gut_TRM,Gut_TRM_2
+SRR2097412,Naive CD8 T cells,Spleen,Wild type,NAV,NAV_3
+SRR2097413,Naive CD8 T cells,Spleen,Wild type,NAV,NAV_4
+SRR2097414,Tissue-resident memory CD8 T cells,Skin,Wild type,Skin_TRM,Skin_TRM_1
+SRR2097415,Tissue-resident memory CD8 T cells,Skin,Wild type,Skin_TRM,Skin_TRM_2
+SRR2097416,Central memory CD8 T cells,Spleen,Wild type,Sp_TCM,Sp_TCM_3
+SRR2097417,Central memory CD8 T cells,Spleen,Wild type,Sp_TCM,Sp_TCM_4
+SRR2097418,Effector memory CD8 T cells,Spleen,Wild type,Sp_TEM,Sp_TEM_3
+SRR2097419,Effector memory CD8 T cells,Spleen,Wild type,Sp_TEM,Sp_TEM_4

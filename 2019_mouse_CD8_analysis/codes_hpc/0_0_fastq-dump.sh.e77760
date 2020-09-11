@@ -1,0 +1,56 @@
+2020-05-22T19:57:32 fastq-dump.2.10.4 err: table incorrect while opening manager within database module - failed SRR2075565
+
+=============================================================
+An error occurred during processing.
+A report was generated into the file '/gpfs/home/hdiao/ncbi_error_report.txt'.
+If the problem persists, you may consider sending the file
+to 'sra-tools@ncbi.nlm.nih.gov' for assistance.
+=============================================================
+
+fastq-dump (PID 44329) quit with error code 3
+2020-05-23T01:00:42 fastq-dump.2.10.4 err: timeout exhausted while creating file within network system module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/NC_000074.6'
+2020-05-23T01:00:47 fastq-dump.2.10.4 err: timeout exhausted while creating file within network system module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/NC_000080.6'
+2020-05-23T02:20:28 fastq-dump.2.10.4 err: data corrupt while selecting function within transform module - failed SRR2075557
+
+=============================================================
+An error occurred during processing.
+A report was generated into the file '/gpfs/home/hdiao/ncbi_error_report.txt'.
+If the problem persists, you may consider sending the file
+to 'sra-tools@ncbi.nlm.nih.gov' for assistance.
+=============================================================
+
+fastq-dump (PID 44277) quit with error code 3
+2020-05-23T09:07:40 fastq-dump.2.10.4 err: connection failed while opening file within cryptographic module - error with https open 'https://sra-download.ncbi.nlm.nih.gov/traces/refseq/NC_000072.6'
+2020-05-23T10:31:21 fastq-dump.2.10.4 err: timeout exhausted while waiting condition within process system module - failed SRR2075577
+
+=============================================================
+An error occurred during processing.
+A report was generated into the file '/gpfs/home/hdiao/ncbi_error_report.txt'.
+If the problem persists, you may consider sending the file
+to 'sra-tools@ncbi.nlm.nih.gov' for assistance.
+=============================================================
+
+fastq-dump (PID 41074) quit with error code 3
+2020-05-23T10:32:52 fastq-dump.2.10.4 err: timeout exhausted while waiting condition within process system module - failed SRR2075575
+
+=============================================================
+An error occurred during processing.
+A report was generated into the file '/gpfs/home/hdiao/ncbi_error_report.txt'.
+If the problem persists, you may consider sending the file
+to 'sra-tools@ncbi.nlm.nih.gov' for assistance.
+=============================================================
+
+fastq-dump (PID 41067) quit with error code 3
+2020-05-23T11:23:17 fastq-dump.2.10.4 err: timeout exhausted while waiting condition within process system module - failed SRR2075572
+
+=============================================================
+An error occurred during processing.
+A report was generated into the file '/gpfs/home/hdiao/ncbi_error_report.txt'.
+If the problem persists, you may consider sending the file
+to 'sra-tools@ncbi.nlm.nih.gov' for assistance.
+=============================================================
+
+fastq-dump (PID 41131) quit with error code 3
+2020-05-23T14:43:32 fastq-dump.2.10.4 err: process canceled while executing process - failed SRR9185081
+2020-05-23T14:43:32 fastq-dump.2.10.4 err: process canceled while executing process - failed SRR1981443
+2020-05-23T14:43:33 fastq-dump.2.10.4 err: process canceled while executing process - failed SRR9185082

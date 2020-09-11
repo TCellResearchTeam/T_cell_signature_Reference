@@ -1,0 +1,14 @@
+[2020-06-02 16:46:54.992] [jointLog] [info] Mapping rate = 34.9791%
+[2020-06-02 16:47:49.952] [jointLog] [info] Mapping rate = 35.6811%
+[2020-06-02 16:48:44.823] [jointLog] [info] Mapping rate = 35.4038%
+[2020-06-02 16:49:02.205] [jointLog] [info] Mapping rate = 35.1594%
+[2020-06-02 16:49:20.272] [jointLog] [info] Mapping rate = 36.3956%
+[2020-06-02 16:49:56.415] [jointLog] [info] Mapping rate = 39.4047%
+[2020-06-02 16:50:01.567] [jointLog] [info] Mapping rate = 33.9782%
+[2020-06-02 17:00:53.299] [jointLog] [info] Mapping rate = 38.9767%
+[2020-06-02 17:02:00.946] [jointLog] [info] Mapping rate = 42.7873%
+[2020-06-02 17:02:12.379] [jointLog] [info] Mapping rate = 38.7231%
+[2020-06-02 17:02:19.267] [jointLog] [info] Mapping rate = 32.9928%
+[2020-06-02 17:02:30.250] [jointLog] [info] Mapping rate = 35.3565%
+[2020-06-02 17:02:38.123] [jointLog] [info] Mapping rate = 37.8924%
+[2020-06-02 17:02:58.583] [jointLog] [info] Mapping rate = 34.314%

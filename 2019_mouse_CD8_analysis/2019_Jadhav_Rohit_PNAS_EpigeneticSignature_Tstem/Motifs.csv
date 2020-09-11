@@ -1,0 +1,158 @@
+﻿Figure,Motif
+S6,Tcf4(HMG)
+S6,Tcf3(HMG)
+S6,TCFL2(HMG)
+S6,Maz(Zf)
+S6,ZNF467(Zf)
+S6,ZSCAN22(Zf)
+S6,p53(p53)
+S6,SCL(bHLH)
+S6,NF1(CTF)
+S6,Unkn
+S6,"own−ESC−element(?) RBPJ:Ebox(?,bHLH) ETS:E−box(ETS,bHLH) Gata4(Zf)"
+S6,Gata6(Zf)
+S6,ZNF165(Zf)
+S6,Zic(Zf)
+S6,ZNF415(Zf)
+S6,Atoh1(bHLH)
+S6,NeuroD1(bHLH)
+S6,EBF1(EBF)
+S6,EBF(EBF)
+S6,Tcf21(bHLH)
+S6,ZNF16(Zf)
+S6,ZNF189(Zf)
+S6,"Tlx?(NR) Sox9(HMG) RAR:RXR(NR),DR5"
+S6,Smad2(MAD)
+S6,ZNF711(Zf)
+S6,ZFX(Zf)
+S6,ZBTB12(Zf)
+S6,Ascl1(bHLH)
+S6,Myf5(bHLH)
+S6,ZBTB18(Zf)
+S6,Ptf1a(bHLH)
+S6,"E2A(bHLH),near_PU.1"
+S6,EWS:FLI1−fusion(ETS)
+S6,ERG(ETS)
+S6,EWS:ERG−fusion(ETS)
+S6,SPDEF(ETS)
+S6,EHF(ETS)
+S6,SpiB(ETS)
+S6,Etv2(ETS)
+S6,PU.1(ETS)
+S6,ETS1(ETS)
+S6,Ets1−distal(ETS)
+S6,ETV1(ETS)
+S6,GAB
+S6,"PA(ETS) ELF5(ETS) PAX6(Paired,Homeob"
+S6,ox) Klf4(Zf) RORgt(NR)
+S6,EKLF(Zf)
+S6,ZNF322(Zf)
+S6,ARE(NR)
+S6,Bcl6(Zf) RUNX1(Runt) RUNX(Runt) RUNX2(Runt) RUNX−AML(Runt)
+S6,p63(p53)
+S6,"LXRE(NR),DR4"
+S6,REST−NRSF(Zf)
+S6,ETS(ETS)
+S6,Tgif2(Homeob
+S6,ox) Srebp2(bHLH)
+S6,RFX(HTH)
+S6,X−b
+S6,ox(HTH) Rfx1(HTH)
+S6,NFkB−p65−Rel(RHD)
+S6,"NFkB−p50,p52(RHD)"
+S6,NFkB−p65(RHD)
+S6,HRE(HSF) NFAT:AP1(RH
+S6,"D,bZIP) Atf2(bZIP)"
+S6,Atf7(bZIP) NFAT(RHD) Nur77(NR)
+S6,ZNF317(Zf)
+S6,GSC(Homeob
+S6,"ox) Bach1(bZIP) PAX5(Paired,Homeob"
+S6,"ox),condensed Srebp1a(bHLH)"
+S6,KLF10(Zf)
+S6,Eomes(T−b
+S6,ox) Tbet(T−box) Tbx5(T−box) HEB(bHLH)
+S6,AR−halfsite(NR)
+S6,"ZNF416(Zf) Pax8(Paired,Homeob"
+S6,ox) Ap4(bHLH)
+S6,GLI3(Zf)
+S6,PU.1−IRF(ETS:IRF)
+S6,ZNF143|S
+S6,"TAF(Zf) VDR(NR),DR3"
+S6,THRa(NR)
+S6,"RARg(NR) Reverb(NR),DR2 ETS:RUNX(ETS,Runt) ERE(NR),IR3"
+S6,COUP−TFII(NR)
+S6,SF1(NR)
+S6,Er
+S6,ra(NR) Esrrb(NR)
+S6,"TR4(NR),DR1"
+S6,"HNF4a(NR),DR1 PPARE(NR),DR1 Nr5a2(NR)"
+S6,Nr5a2(NR)
+S6,"RXR(NR),DR1"
+S6,"RAR:RXR(NR),DR5"
+S6,MafA(bZIP)
+S6,THRb(NR)
+S6,MafK(bZIP)
+S6,Nrf2(bZIP)
+S6,NF−E2(bZIP)
+S6,Bach2(bZIP)
+S6,Atf3(bZIP) Fra1(bZIP) Fra2(bZIP)
+S6,AP−1(bZIP) BATF(bZIP) Jun−AP1(bZIP) Fosl2(bZIP)
+S4,Etv2
+S4,ERG
+S4,Ets1−distal
+S4,ETS:RUNX
+S4,GABPA
+S4,ETS1
+S4,ETV1
+S4,Tcf4
+S4,Tcf3
+S4,TCFL2
+S4,Egr2
+S4,NFkB−p65−Rel
+S4,NFkB−p65
+S4,Egr1
+S4,"NFkB−p50,p52"
+S4,2-Oct
+S4,Brn1
+S4,4-Oct
+S4,Rfx5
+S4,X−box
+S4,CTCF
+S4,Rfx1
+S4,Rfx2
+S4,RFX
+S4,Atf2
+S4,Atf7
+S4,c−Jun−CRE
+S4,Atf1
+S4,JunD
+S4,MafK
+S4,MafA
+S4,Esrrb
+S4,Nur77
+S4,SF1
+S4,TR4
+S4,Srebp2
+S4,ERE
+S4,THRb
+S4,Eomes
+S4,Tbet
+S4,NFAT:AP1
+S4,NFAT
+S4,GSC
+S4,RARg
+S4,Nr5a2
+S4,RAR:RXR
+S4,Nr5a2
+S4,CRE
+S4,Bach2
+S4,NF−E2
+S4,Nrf2
+S4,Fosl2
+S4,Atf3
+S4,Fra1
+S4,BATF
+S4,AP−1
+S4,Fra2
+S4,Jun−AP1
+S4,Bach1

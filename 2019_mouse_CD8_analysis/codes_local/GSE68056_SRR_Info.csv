@@ -1,0 +1,17 @@
+﻿Run,Description,Info,Cell_type,Name
+SRR1981429,Wildtype (WT) Bone marrow,WT_075,WT,WT_1
+SRR1981430,Wildtype (WT) Bone marrow,WT_077,WT,WT_2
+SRR1981431,Wildtype (WT) Bone marrow,WT_079,WT,WT_3
+SRR1981432,Wildtype (WT) Bone marrow,WT_080,WT,WT_4
+SRR1981433,Wildtype (WT) Bone marrow,WT_082,WT,WT_5
+SRR1981434,Wildtype (WT) Bone marrow,WT_GA1927,WT,WT_6
+SRR1981435,Wildtype (WT) Bone marrow,WT_GA1929,WT,WT_7
+SRR1981436,Wildtype (WT) Bone marrow,WT_GA1931,WT,WT_8
+SRR1981437,Blimp1LckCre (Blimp1KO) Bone marrow,Blimp1KO_076,Blimp1KO,Blimp1KO_1
+SRR1981438,Blimp1LckCre (Blimp1KO) Bone marrow,BlimpCKO_GA1930,Blimp1KO,Blimp1KO_2
+SRR1981439,IL2ra-/- (IL2raKO) Bone marrow,CD25KO_074,Il2raKO,Il2raKO_1
+SRR1981440,IL2ra-/- (IL2raKO) Bone marrow,CD25KO_GA1928,Il2raKO,Il2raKO_2
+SRR1981441,IL2ra-/-Blimp1LckCre (DKO) Bone marrow,CD25KO_BlimpCKO_GA1926,Il2raKO_Blimp1KO,Il2raKO_Blimp1KO_1
+SRR1981442,IL2ra-/-Blimp1LckCre (DKO) Bone marrow,DKO_078,Il2raKO_Blimp1KO,Il2raKO_Blimp1KO_2
+SRR1981443,Tbx21-/- (T-betKO) Bone marrow,TbetKO_081,Tbx21KO,Tbx21KO_1
+SRR1981444,Tbx21-/- (T-betKO) Bone marrow,TbetKO_083,Tbx21KO,Tbx21KO_2
