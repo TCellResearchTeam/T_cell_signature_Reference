@@ -1,0 +1,13 @@
+Run,Cell_type,Name,Cell_type,organ,stimulation
+SRR9917176,Airway_Trm,Airway_Trm_1,airway resident CD8 memory T cells,Lung Airway,35 days post Influenza X31 infection
+SRR9917177,Airway_Trm,Airway_Trm_2,airway resident CD8 memory T cells,Lung Airway,35 days post Influenza X31 infection
+SRR9917178,Airway_Trm,Airway_Trm_3,airway resident CD8 memory T cells,Lung Airway,35 days post Influenza X31 infection
+SRR9917179,Lung_intersitium_Trm,Lung_intersitium_Trm_1,lung intersitium resident CD8 memory T cells,Lung,35 days post Influenza X31 infection
+SRR9917180,Lung_intersitium_Trm,Lung_intersitium_Trm_2,lung intersitium resident CD8 memory T cells,Lung,35 days post Influenza X31 infection
+SRR9917181,Lung_intersitium_Trm,Lung_intersitium_Trm_3,lung intersitium resident CD8 memory T cells,Lung,35 days post Influenza X31 infection
+SRR9917182,Lung_vasculature_Trm,Lung_vasculature_Trm_1,lung vasculature CD8 memory T cells,Lung,35 days post Influenza X31 infection
+SRR9917183,Lung_vasculature_Trm,Lung_vasculature_Trm_2,lung vasculature CD8 memory T cells,Lung,35 days post Influenza X31 infection
+SRR9917184,Lung_vasculature_Trm,Lung_vasculature_Trm_3,lung vasculature CD8 memory T cells,Lung,35 days post Influenza X31 infection
+SRR9917185,Spleen_Tcm,Spleen_Tcm_1,Spleen CD8 memory T cells,Spleen,35 days post Influenza X31 infection
+SRR9917186,Spleen_Tcm,Spleen_Tcm_2,Spleen CD8 memory T cells,Spleen,35 days post Influenza X31 infection
+SRR9917187,Spleen_Tcm,Spleen_Tcm_3,Spleen CD8 memory T cells,Spleen,35 days post Influenza X31 infection

@@ -1,0 +1,19 @@
+Run,Cell_type,Name,organ,source_name,stimulation,tissue
+SRR7643421,Airway_Trm,Airway_Trm_1,Lung Airway,airway resident CD8 memory T cells,35 days post Influenza X31 infection,airway resident CD8 memory T cells
+SRR7643422,Airway_Trm,Airway_Trm_2,Lung Airway,airway resident CD8 memory T cells,35 days post Influenza X31 infection,airway resident CD8 memory T cells
+SRR7643423,Airway_Trm,Airway_Trm_3,Lung Airway,airway resident CD8 memory T cells,35 days post Influenza X31 infection,airway resident CD8 memory T cells
+SRR7643424,Airway_Trm,Airway_Trm_4,Lung Airway,airway resident CD8 memory T cells,35 days post Influenza X31 infection,airway resident CD8 memory T cells
+SRR7643425,Airway_Trm,Airway_Trm_5,Lung Airway,airway resident CD8 memory T cells,35 days post Influenza X31 infection,airway resident CD8 memory T cells
+SRR7643426,Airway_Trm,Airway_Trm_6,Lung Airway,airway resident CD8 memory T cells,35 days post Influenza X31 infection,airway resident CD8 memory T cells
+SRR7643427,Airway_Trm,Airway_Trm_7,Lung Airway,airway resident CD8 memory T cells,35 days post Influenza X31 infection,airway resident CD8 memory T cells
+SRR7643428,Airway_Trm,Airway_Trm_8,Lung Airway,airway resident CD8 memory T cells,35 days post Influenza X31 infection,airway resident CD8 memory T cells
+SRR7643429,Parenchyma_Trm,Parenchyma_Trm_1,Lung Parenchyma,parenchyma resident CD8 memory T cells,35 days post Influenza X31 infection,parenchyma resident CD8 memory T cells
+SRR7643430,Parenchyma_Trm,Parenchyma_Trm_2,Lung Parenchyma,parenchyma resident CD8 memory T cells,35 days post Influenza X31 infection,parenchyma resident CD8 memory T cells
+SRR7643431,Parenchyma_Trm,Parenchyma_Trm_3,Lung Parenchyma,parenchyma resident CD8 memory T cells,35 days post Influenza X31 infection,parenchyma resident CD8 memory T cells
+SRR7643432,Parenchyma_Trm,Parenchyma_Trm_4,Lung Parenchyma,parenchyma resident CD8 memory T cells,35 days post Influenza X31 infection,parenchyma resident CD8 memory T cells
+SRR7643433,Spleen_Tcm,Spleen_Tcm_1,Spleen,circulating CD8 memory T cells,35 days post Influenza X31 infection,circulating CD8 memory T cells
+SRR7643434,Spleen_Tcm,Spleen_Tcm_2,Spleen,circulating CD8 memory T cells,35 days post Influenza X31 infection,circulating CD8 memory T cells
+SRR7643435,Spleen_Tcm,Spleen_Tcm_3,Spleen,circulating CD8 memory T cells,35 days post Influenza X31 infection,circulating CD8 memory T cells
+SRR7643436,Spleen_Tcm,Spleen_Tcm_4,Spleen,circulating CD8 memory T cells,35 days post Influenza X31 infection,circulating CD8 memory T cells
+SRR7643437,Spleen_Tcm,Spleen_Tcm_5,Spleen,circulating CD8 memory T cells,35 days post Influenza X31 infection,circulating CD8 memory T cells
+SRR7643438,Spleen_Tcm,Spleen_Tcm_6,Spleen,circulating CD8 memory T cells,35 days post Influenza X31 infection,circulating CD8 memory T cells

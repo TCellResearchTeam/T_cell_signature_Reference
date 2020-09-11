@@ -1,0 +1,50 @@
+[2020-07-05 15:12:18.100] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2020-07-05 15:12:18.100] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2020-07-05 15:12:18.100] [jointLog] [info] Usage of --validateMappings, without --hardFilter implies use of range factorization. rangeFactorizationBins is being set to 4
+[2020-07-05 15:12:18.100] [jointLog] [info] Usage of --validateMappings implies a default consensus slack of 0.2. Setting consensusSlack to 0.2.
+[2020-07-05 15:12:18.100] [jointLog] [info] parsing read library format
+[2020-07-05 15:12:18.100] [jointLog] [info] There is 1 library.
+[2020-07-05 15:12:18.150] [jointLog] [info] Loading Quasi index
+[2020-07-05 15:12:18.150] [jointLog] [info] Loading 32-bit quasi index
+[2020-07-05 15:12:25.186] [jointLog] [info] done
+[2020-07-05 15:12:25.186] [jointLog] [info] Index contained 178,517 targets
+[2020-07-05 15:12:25.575] [jointLog] [info] Automatically detected most likely library type as U
+[2020-07-05 15:13:55.442] [jointLog] [info] Computed 632,591 rich equivalence classes for further processing
+[2020-07-05 15:13:55.442] [jointLog] [info] Counted 20,056,655 total reads in the equivalence classes 
+[2020-07-05 15:13:55.472] [jointLog] [info] Number of mappings discarded because of alignment score : 13,518,282
+[2020-07-05 15:13:55.472] [jointLog] [info] Number of fragments entirely discarded because of alignment score : 10,260,750
+[2020-07-05 15:13:55.472] [jointLog] [info] Number of fragments discarded because they are best-mapped to decoys : 0
+[2020-07-05 15:13:55.472] [jointLog] [info] Number of fragments discarded because they have only dovetail (discordant) mappings : 0
+[2020-07-05 15:13:55.472] [jointLog] [info] Mapping rate = 66.1556%
+
+[2020-07-05 15:13:55.472] [jointLog] [info] finished quantifyLibrary()
+[2020-07-05 15:13:55.473] [jointLog] [info] Starting optimizer
+[2020-07-05 15:13:55.669] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2020-07-05 15:13:55.706] [jointLog] [info] iteration = 0 | max rel diff. = 6671.67
+[2020-07-05 15:13:55.443] [fileLog] [info] 
+At end of round 0
+==================
+Observed 30317405 total fragments (30317405 in most recent round)
+
+[2020-07-05 15:13:59.371] [jointLog] [info] iteration = 100 | max rel diff. = 18.2221
+[2020-07-05 15:14:03.041] [jointLog] [info] iteration = 200 | max rel diff. = 11.3501
+[2020-07-05 15:14:06.713] [jointLog] [info] iteration = 300 | max rel diff. = 15.9316
+[2020-07-05 15:14:10.385] [jointLog] [info] iteration = 400 | max rel diff. = 16.9728
+[2020-07-05 15:14:14.058] [jointLog] [info] iteration = 500 | max rel diff. = 1.58318
+[2020-07-05 15:14:17.733] [jointLog] [info] iteration = 600 | max rel diff. = 0.228798
+[2020-07-05 15:14:21.406] [jointLog] [info] iteration = 700 | max rel diff. = 3.27454
+[2020-07-05 15:14:25.079] [jointLog] [info] iteration = 800 | max rel diff. = 0.961704
+[2020-07-05 15:14:28.753] [jointLog] [info] iteration = 900 | max rel diff. = 1.77138
+[2020-07-05 15:14:32.428] [jointLog] [info] iteration = 1,000 | max rel diff. = 3.98698
+[2020-07-05 15:14:36.102] [jointLog] [info] iteration = 1,100 | max rel diff. = 0.947896
+[2020-07-05 15:14:39.776] [jointLog] [info] iteration = 1,200 | max rel diff. = 0.0870304
+[2020-07-05 15:14:43.451] [jointLog] [info] iteration = 1,300 | max rel diff. = 0.0650207
+[2020-07-05 15:14:47.125] [jointLog] [info] iteration = 1,400 | max rel diff. = 0.356198
+[2020-07-05 15:14:50.800] [jointLog] [info] iteration = 1,500 | max rel diff. = 0.0811993
+[2020-07-05 15:14:54.476] [jointLog] [info] iteration = 1,600 | max rel diff. = 4.09612
+[2020-07-05 15:14:58.150] [jointLog] [info] iteration = 1,700 | max rel diff. = 0.0881303
+[2020-07-05 15:15:01.825] [jointLog] [info] iteration = 1,800 | max rel diff. = 0.14183
+[2020-07-05 15:15:03.368] [jointLog] [info] iteration = 1,843 | max rel diff. = 0.00942021
+[2020-07-05 15:15:03.372] [jointLog] [info] Finished optimizer
+[2020-07-05 15:15:03.372] [jointLog] [info] writing output 
+

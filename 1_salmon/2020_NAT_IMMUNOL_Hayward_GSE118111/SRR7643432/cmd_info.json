@@ -1,0 +1,11 @@
+{
+    "salmon_version": "0.14.1",
+    "index": "/gpfs/group/pipkin/hdiao/ref_resources/mm/release100/GRCm38.salmon.index",
+    "libType": "A",
+    "mates1": "/gpfs/group/pipkin/hdiao/SARS_Sc_references/fastq/SRR7643432_1.fastq",
+    "mates2": "/gpfs/group/pipkin/hdiao/SARS_Sc_references/fastq/SRR7643432_2.fastq",
+    "threads": "12",
+    "validateMappings": [],
+    "output": "SRR7643432",
+    "auxDir": "aux_info"
+}

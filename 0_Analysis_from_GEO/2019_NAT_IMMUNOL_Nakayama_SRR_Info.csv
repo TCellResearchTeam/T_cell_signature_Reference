@@ -1,0 +1,29 @@
+Run,Cell_type,Name,genotype/variation,Name,source_name
+SRR9606479,LungTRreg,LungTRreg_1,Wild type,Fig2_CD44hi_CD69hi_CD103hi_rep1,CD44hi CD69hi CD103hi T cells in lung treated with Aspergillus antigen
+SRR9606483,LungTRreg,LungTRreg_2,Wild type,Fig2_CD44hi_CD69hi_CD103hi_rep2,CD44hi CD69hi CD103hi T cells in lung treated with Aspergillus antigen
+SRR9606478,LungTRM,LungTRM_1,Wild type,Fig2_CD44hi_CD69hi_CD103low_rep1,CD44hi CD69hi CD103low T cells in lung treated with Aspergillus antigen
+SRR9606482,LungTRM,LungTRM_2,Wild type,Fig2_CD44hi_CD69hi_CD103low_rep2,CD44hi CD69hi CD103low T cells in lung treated with Aspergillus antigen
+SRR9606477,Cir_CD44hi,Cir_CD44hi_1,Wild type,Fig2_CD44hi_CD69low_rep1,CD44hi CD69low T cells in lung treated with Aspergillus antigen
+SRR9606481,Cir_CD44hi,Cir_CD44hi_2,Wild type,Fig2_CD44hi_CD69low_rep2,CD44hi CD69low T cells in lung treated with Aspergillus antigen
+SRR9606476,Cir_CD44lo,Cir_CD44lo_1,Wild type,Fig2_CD44low_rep1,CD44low T cells in lung treated with Aspergillus antigen
+SRR9606480,Cir_CD44lo,Cir_CD44lo_2,Wild type,Fig2_CD44low_rep2,CD44low T cells in lung treated with Aspergillus antigen
+SRR9606489,LungTRreg_Foxp3KO,LungTRreg_Foxp3KO_1,Foxp3-DTR Tg,Fig4_Tg_CD44hi_CD69hi_CD103hi_rep1,CD44hi CD69hi CD103hi T cells in Foxp3-DTR Tg lung treated with Aspergillus antigen
+SRR9606495,LungTRreg_Foxp3KO,LungTRreg_Foxp3KO_2,Foxp3-DTR Tg,Fig4_Tg_CD44hi_CD69hi_CD103hi_rep2,CD44hi CD69hi CD103hi T cells in Foxp3-DTR Tg lung treated with Aspergillus antigen
+SRR9606487,LungTRM_Foxp3KO,LungTRM_Foxp3KO_1,Foxp3-DTR Tg,Fig4_Tg_CD44hi_CD69hi_CD103low_rep1,CD44hi CD69hi CD103low T cells in Foxp3-DTR Tg lung treated with Aspergillus antigen
+SRR9606493,LungTRM_Foxp3KO,LungTRM_Foxp3KO_2,Foxp3-DTR Tg,Fig4_Tg_CD44hi_CD69hi_CD103low_rep2,CD44hi CD69hi CD103low T cells in Foxp3-DTR Tg lung treated with Aspergillus antigen
+SRR9606485,Cir_CD44lo_Foxp3KO,Cir_CD44lo_Foxp3KO_1,Foxp3-DTR Tg,Fig4_Tg_CD44low_rep1,CD44low T cells in Foxp3-DTR Tg lung treated with Aspergillus antigen
+SRR9606491,Cir_CD44lo_Foxp3KO,Cir_CD44lo_Foxp3KO_2,Foxp3-DTR Tg,Fig4_Tg_CD44low_rep2,CD44low T cells in Foxp3-DTR Tg lung treated with Aspergillus antigen
+SRR9606488,LungTRreg,LungTRreg_3,Wild type,Fig4_WT_CD44hi_CD69hi_CD103hi_rep1,CD44hi CD69hi CD103hi T cells in Wild type lung treated with Aspergillus antigen
+SRR9606494,LungTRreg,LungTRreg_4,Wild type,Fig4_WT_CD44hi_CD69hi_CD103hi_rep2,CD44hi CD69hi CD103hi T cells in Wild type lung treated with Aspergillus antigen
+SRR9606486,LungTRM,LungTRM_3,Wild type,Fig4_WT_CD44hi_CD69hi_CD103low_rep1,CD44hi CD69hi CD103low T cells in Wild type lung treated with Aspergillus antigen
+SRR9606492,LungTRM,LungTRM_4,Wild type,Fig4_WT_CD44hi_CD69hi_CD103low_rep2,CD44hi CD69hi CD103low T cells in Wild type lung treated with Aspergillus antigen
+SRR9606484,Cir_CD44lo,Cir_CD44lo_3,Wild type,Fig4_WT_CD44low_rep1,CD44low T cells in Wild type lung treated with Aspergillus antigen
+SRR9606490,Cir_CD44lo,Cir_CD44lo_4,Wild type,Fig4_WT_CD44low_rep2,CD44low T cells in Wild type lung treated with Aspergillus antigen
+SRR9606499,LungTRreg_ATAC,LungTRreg_ATAC_1,Wild type,Fig6_CD44hi_CD69hi_CD103hi_rep1,CD44hi CD69hi CD103hi T cells in lung treated with Aspergillus antigen
+SRR9606503,LungTRreg_ATAC,LungTRreg_ATAC_2,Wild type,Fig6_CD44hi_CD69hi_CD103hi_rep2,CD44hi CD69hi CD103hi T cells in lung treated with Aspergillus antigen
+SRR9606498,LungTRM_ATAC,LungTRM_ATAC_1,Wild type,Fig6_CD44hi_CD69hi_CD103low_rep1,CD44hi CD69hi CD103low T cells in lung treated with Aspergillus antigen
+SRR9606502,LungTRM_ATAC,LungTRM_ATAC_2,Wild type,Fig6_CD44hi_CD69hi_CD103low_rep2,CD44hi CD69hi CD103low T cells in lung treated with Aspergillus antigen
+SRR9606497,Cir_CD44hi_ATAC,Cir_CD44hi_ATAC_1,Wild type,Fig6_CD44hi_CD69low_rep1,CD44hi CD69low T cells in lung treated with Aspergillus antigen
+SRR9606501,Cir_CD44hi_ATAC,Cir_CD44hi_ATAC_2,Wild type,Fig6_CD44hi_CD69low_rep2,CD44hi CD69low T cells in lung treated with Aspergillus antigen
+SRR9606496,Cir_CD44lo_ATAC,Cir_CD44lo_ATAC_1,Wild type,Fig6_CD44low_rep1,CD44low T cells in lung treated with Aspergillus antigen
+SRR9606500,Cir_CD44lo_ATAC,Cir_CD44lo_ATAC_2,Wild type,Fig6_CD44low_rep2,CD44low T cells in lung treated with Aspergillus antigen

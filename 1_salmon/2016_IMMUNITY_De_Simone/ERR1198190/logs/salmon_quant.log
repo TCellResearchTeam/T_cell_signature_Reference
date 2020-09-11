@@ -1,0 +1,49 @@
+[2020-07-05 16:15:27.073] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2020-07-05 16:15:27.073] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2020-07-05 16:15:27.073] [jointLog] [info] Usage of --validateMappings, without --hardFilter implies use of range factorization. rangeFactorizationBins is being set to 4
+[2020-07-05 16:15:27.073] [jointLog] [info] Usage of --validateMappings implies a default consensus slack of 0.2. Setting consensusSlack to 0.2.
+[2020-07-05 16:15:27.073] [jointLog] [info] parsing read library format
+[2020-07-05 16:15:27.073] [jointLog] [info] There is 1 library.
+[2020-07-05 16:15:27.122] [jointLog] [info] Loading Quasi index
+[2020-07-05 16:15:27.122] [jointLog] [info] Loading 32-bit quasi index
+[2020-07-05 16:15:34.119] [jointLog] [info] done
+[2020-07-05 16:15:34.119] [jointLog] [info] Index contained 178,517 targets
+[2020-07-05 16:15:34.772] [jointLog] [info] Automatically detected most likely library type as IU
+[2020-07-05 16:19:03.567] [jointLog] [info] Computed 767,760 rich equivalence classes for further processing
+[2020-07-05 16:19:03.567] [jointLog] [info] Counted 27,787,959 total reads in the equivalence classes 
+[2020-07-05 16:19:03.594] [jointLog] [info] Number of mappings discarded because of alignment score : 9,661,446
+[2020-07-05 16:19:03.594] [jointLog] [info] Number of fragments entirely discarded because of alignment score : 2,324,652
+[2020-07-05 16:19:03.594] [jointLog] [info] Number of fragments discarded because they are best-mapped to decoys : 0
+[2020-07-05 16:19:03.594] [jointLog] [info] Number of fragments discarded because they have only dovetail (discordant) mappings : 1,571,131
+[2020-07-05 16:19:03.594] [jointLog] [info] Mapping rate = 73.2949%
+
+[2020-07-05 16:19:03.594] [jointLog] [info] finished quantifyLibrary()
+[2020-07-05 16:19:03.595] [jointLog] [info] Starting optimizer
+[2020-07-05 16:19:03.780] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2020-07-05 16:19:03.568] [fileLog] [info] 
+At end of round 0
+==================
+Observed 37912530 total fragments (37912530 in most recent round)
+
+[2020-07-05 16:19:03.808] [jointLog] [info] iteration = 0 | max rel diff. = 6525.65
+[2020-07-05 16:19:06.561] [jointLog] [info] iteration = 100 | max rel diff. = 10.2931
+[2020-07-05 16:19:09.319] [jointLog] [info] iteration = 200 | max rel diff. = 13.8234
+[2020-07-05 16:19:12.077] [jointLog] [info] iteration = 300 | max rel diff. = 4.03707
+[2020-07-05 16:19:14.834] [jointLog] [info] iteration = 400 | max rel diff. = 0.481261
+[2020-07-05 16:19:17.592] [jointLog] [info] iteration = 500 | max rel diff. = 1.36312
+[2020-07-05 16:19:20.350] [jointLog] [info] iteration = 600 | max rel diff. = 1.52138
+[2020-07-05 16:19:23.106] [jointLog] [info] iteration = 700 | max rel diff. = 0.313749
+[2020-07-05 16:19:25.859] [jointLog] [info] iteration = 800 | max rel diff. = 0.630845
+[2020-07-05 16:19:28.613] [jointLog] [info] iteration = 900 | max rel diff. = 0.0417666
+[2020-07-05 16:19:31.367] [jointLog] [info] iteration = 1,000 | max rel diff. = 0.131319
+[2020-07-05 16:19:34.121] [jointLog] [info] iteration = 1,100 | max rel diff. = 0.0425186
+[2020-07-05 16:19:36.875] [jointLog] [info] iteration = 1,200 | max rel diff. = 0.205311
+[2020-07-05 16:19:39.629] [jointLog] [info] iteration = 1,300 | max rel diff. = 0.249231
+[2020-07-05 16:19:42.383] [jointLog] [info] iteration = 1,400 | max rel diff. = 0.0269443
+[2020-07-05 16:19:45.137] [jointLog] [info] iteration = 1,500 | max rel diff. = 0.18594
+[2020-07-05 16:19:47.891] [jointLog] [info] iteration = 1,600 | max rel diff. = 0.176367
+[2020-07-05 16:19:50.645] [jointLog] [info] iteration = 1,700 | max rel diff. = 0.0204053
+[2020-07-05 16:19:52.436] [jointLog] [info] iteration = 1,766 | max rel diff. = 0.00716332
+[2020-07-05 16:19:52.440] [jointLog] [info] Finished optimizer
+[2020-07-05 16:19:52.440] [jointLog] [info] writing output 
+

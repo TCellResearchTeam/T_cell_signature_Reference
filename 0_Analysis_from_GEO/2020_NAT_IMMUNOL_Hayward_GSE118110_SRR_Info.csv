@@ -1,0 +1,25 @@
+Run,Cell_type,Name,source_name,SRA Study,strain,tissue
+SRR7643393,Tcm,Tcm_1,Splenocytes pre-transfer,SRP156327,C57BL/6J,circulating CD8 memory T cells
+SRR7643394,Tcm,Tcm_2,Splenocytes pre-transfer,SRP156327,C57BL/6J,circulating CD8 memory T cells
+SRR7643395,Tcm,Tcm_3,Splenocytes pre-transfer,SRP156327,C57BL/6J,circulating CD8 memory T cells
+SRR7643396,Tcm,Tcm_4,Splenocytes pre-transfer,SRP156327,C57BL/6J,circulating CD8 memory T cells
+SRR7643397,Tcm,Tcm_5,Splenocytes pre-transfer,SRP156327,C57BL/6J,circulating CD8 memory T cells
+SRR7643398,Tcm,Tcm_6,Splenocytes pre-transfer,SRP156327,C57BL/6J,circulating CD8 memory T cells
+SRR7643399,Tcm,Tcm_7,Splenocytes pre-transfer,SRP156327,C57BL/6J,circulating CD8 memory T cells
+SRR7643400,Tcm,Tcm_8,Splenocytes pre-transfer,SRP156327,C57BL/6J,circulating CD8 memory T cells
+SRR7643401,Airway_Trm,Airway_Trm_1,Splenocytes post-transfer into airways,SRP156327,C57BL/6J,airway resident CD8 memory T cells
+SRR7643402,Airway_Trm,Airway_Trm_2,Splenocytes post-transfer into airways,SRP156327,C57BL/6J,airway resident CD8 memory T cells
+SRR7643403,Airway_Trm,Airway_Trm_3,Splenocytes post-transfer into airways,SRP156327,C57BL/6J,airway resident CD8 memory T cells
+SRR7643404,Airway_Trm,Airway_Trm_4,Splenocytes post-transfer into airways,SRP156327,C57BL/6J,airway resident CD8 memory T cells
+SRR7643405,Airway_Trm,Airway_Trm_5,Splenocytes post-transfer into airways,SRP156327,C57BL/6J,airway resident CD8 memory T cells
+SRR7643406,Airway_Trm,Airway_Trm_6,Splenocytes post-transfer into airways,SRP156327,C57BL/6J,airway resident CD8 memory T cells
+SRR7643407,Airway_Trm,Airway_Trm_7,Splenocytes post-transfer into airways,SRP156327,C57BL/6J,airway resident CD8 memory T cells
+SRR7643408,Airway_Trm,Airway_Trm_8,Splenocytes post-transfer into airways,SRP156327,C57BL/6J,airway resident CD8 memory T cells
+SRR7643409,Tcm,Tcm_9,Splenocytes pre-transfer,SRP156327,C57BL/6J,circulating CD8 memory T cells
+SRR7643410,Tcm,Tcm_10,Splenocytes pre-transfer,SRP156327,C57BL/6J,circulating CD8 memory T cells
+SRR7643411,Tcm,Tcm_11,Splenocytes pre-transfer,SRP156327,C57BL/6J,circulating CD8 memory T cells
+SRR7643412,Tcm,Tcm_12,Splenocytes pre-transfer,SRP156327,C57BL/6J,circulating CD8 memory T cells
+SRR7643413,Tcm,Tcm_13,Splenocytes pre-transfer,SRP156327,C57BL/6J,circulating CD8 memory T cells
+SRR7643414,Tcm,Tcm_14,Splenocytes pre-transfer,SRP156327,C57BL/6J,circulating CD8 memory T cells
+SRR7643415,Tcm,Tcm_15,Splenocytes pre-transfer,SRP156327,C57BL/6J,circulating CD8 memory T cells
+SRR7643416,Tcm,Tcm_16,Splenocytes pre-transfer,SRP156327,C57BL/6J,circulating CD8 memory T cells

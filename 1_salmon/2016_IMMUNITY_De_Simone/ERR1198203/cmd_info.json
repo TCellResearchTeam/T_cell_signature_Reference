@@ -1,0 +1,11 @@
+{
+    "salmon_version": "0.14.1",
+    "index": "/gpfs/group/pipkin/hdiao/ref_resources/hs/release100/GRCh38.salmon.index",
+    "libType": "A",
+    "mates1": "/gpfs/group/pipkin/hdiao/SARS_Sc_references/fastq/ERR1198203_1.fastq",
+    "mates2": "/gpfs/group/pipkin/hdiao/SARS_Sc_references/fastq/ERR1198203_2.fastq",
+    "threads": "12",
+    "validateMappings": [],
+    "output": "ERR1198203",
+    "auxDir": "aux_info"
+}

@@ -1,0 +1,25 @@
+{
+    "read_files": [
+        "/gpfs/group/pipkin/hdiao/SARS_Sc_references/fastq/SRR5799994_1.fastq",
+        "/gpfs/group/pipkin/hdiao/SARS_Sc_references/fastq/SRR5799994_2.fastq"
+    ],
+    "expected_format": "IU",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 12548511,
+    "num_assigned_fragments": 12548511,
+    "num_frags_with_concordant_consistent_mappings": 11316593,
+    "num_frags_with_inconsistent_or_orphan_mappings": 1418091,
+    "strand_mapping_bias": 0.5016683024652384,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 5639417,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 5677176,
+    "SF": 503263,
+    "SR": 914828,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

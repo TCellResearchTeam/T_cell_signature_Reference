@@ -1,0 +1,25 @@
+{
+    "read_files": [
+        "/gpfs/group/pipkin/hdiao/SARS_Sc_references/fastq/ERR1198196_1.fastq",
+        "/gpfs/group/pipkin/hdiao/SARS_Sc_references/fastq/ERR1198196_2.fastq"
+    ],
+    "expected_format": "IU",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 12794489,
+    "num_assigned_fragments": 12794489,
+    "num_frags_with_concordant_consistent_mappings": 12504236,
+    "num_frags_with_inconsistent_or_orphan_mappings": 432637,
+    "strand_mapping_bias": 0.49835719671317788,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 6272660,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 6231576,
+    "SF": 219657,
+    "SR": 212980,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

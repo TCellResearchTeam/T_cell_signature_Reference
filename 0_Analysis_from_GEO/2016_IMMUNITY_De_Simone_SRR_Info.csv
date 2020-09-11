@@ -1,0 +1,65 @@
+Run,Cell_type,Name,Description,bio_material,Patient_code,Age
+ERR1198158,Th1,Th1_1,Th1 Healthy Tissue NSCLC,Non Small Cell Lung Cancer,"nsclc5,nsclc6,nsclc7,nsclc8,nsclc9,nsclc10",
+ERR1198160,Th1,Th1_2,Th1 Tumor NSCLC Adenocarcinoma,Non Small Cell Lung Cancer,nsclc8,77
+ERR1198161,Th1,Th1_3,Th1 Tumor NSCLC Squamous Cell Carcinoma,Non Small Cell Lung Cancer,nsclc6,71
+ERR1198162,Th1,Th1_4,Th1 Tumor NSCLC Squamous Cell Carcinoma,Non Small Cell Lung Cancer,nsclc7,78
+ERR1198163,Th1,Th1_5,Th1 Tumor NSCLC Squamous Cell Carcinoma,Non Small Cell Lung Cancer,nsclc5,66
+ERR1198164,Th1,Th1_6,Th1 Tumor NSCLC Squamous Cell Carcinoma,Non Small Cell Lung Cancer,nsclc3,72
+ERR1198165,Th1,Th1_7,Th1 Tumor NSCLC Squamous Cell Carcinoma,Non Small Cell Lung Cancer,nsclc4,79
+ERR1198170,Th1,Th1_8,Th1 Healthy Tissue CRC Adenocarcinoma,Colorectal Cancer,crc1,76
+ERR1198179,Th1,Th1_9,Th1 Tumor NSCLC Adenocarcinoma,Non Small Cell Lung Cancer,nsclc10,77
+ERR1198180,Th1,Th1_10,Th1 Tumor NSCLC Adenocarcinoma,Non Small Cell Lung Cancer,nsclc9,69
+ERR1198195,Th1,Th1_11,Th1 Tumor CRC Adenocarcinoma,Colorectal Cancer,crc3,80
+ERR1198196,Th1,Th1_12,Th1 Tumor CRC Mucinous Adenocarcinoma,Colorectal Cancer,crc6,69
+ERR1198197,Th1,Th1_13,Th1 Tumor CRC Adenocarcinoma,Colorectal Cancer,crc5,78
+ERR1198198,Th1,Th1_14,Th1 Tumor CRC Adenocarcinoma,Colorectal Cancer,crc4,79
+ERR1198199,Th1,Th1_15,Th1 Tumor CRC Adenocarcinoma,Colorectal Cancer,crc2,68
+ERR1198200,Th1,Th1_16,Th1 Healthy Tissue CRC Adenocarcinoma,Colorectal Cancer,crc4,79
+ERR1198201,Th1,Th1_17,Th1 Healthy Tissue CRC Adenocarcinoma,Colorectal Cancer,crc5,78
+ERR1198202,Th1,Th1_18,Th1 Healthy Tissue CRC Adenocarcinoma,Colorectal Cancer,crc9,54
+ERR1198203,Th1,Th1_19,Th1 Healthy Tissue CRC Mucinous Adenocarcinoma,Colorectal Cancer,crc6,69
+ERR1198204,Th1,Th1_20,Th1 Healthy Tissue CRC Adenocarcinoma,Colorectal Cancer,crc7,84
+ERR1198166,Th17,Th17_1,Th17 Tumor NSCLC Squamous Cell Carcinoma,Non Small Cell Lung Cancer,nsclc5,66
+ERR1198167,Th17,Th17_2,Th17 Tumor NSCLC Squamous Cell Carcinoma,Non Small Cell Lung Cancer,nsclc4,79
+ERR1198168,Th17,Th17_3,Th17 Tumor NSCLC Squamous Cell Carcinoma,Non Small Cell Lung Cancer,nsclc3,72
+ERR1198169,Th17,Th17_4,Th17 Tumor NSCLC Squamous Cell Carcinoma,Non Small Cell Lung Cancer,nsclc7,78
+ERR1198171,Th17,Th17_5,Th17 Healthy Tissue CRC Adenocarcinoma,Colorectal Cancer,crc1,76
+ERR1198181,Th17,Th17_6,Th17 Tumor NSCLC Adenocarcinoma,Non Small Cell Lung Cancer,nsclc10,77
+ERR1198182,Th17,Th17_7,Th17 Tumor NSCLC Adenocarcinoma,Non Small Cell Lung Cancer,nsclc9,69
+ERR1198205,Th17,Th17_8,Th17 Tumor CRC Adenocarcinoma,Colorectal Cancer,crc9,54
+ERR1198206,Th17,Th17_9,Th17 Tumor CRC Adenocarcinoma,Colorectal Cancer,crc2,68
+ERR1198207,Th17,Th17_10,Th17 Tumor CRC Adenocarcinoma,Colorectal Cancer,crc7,84
+ERR1198208,Th17,Th17_11,Th17 Tumor CRC Adenocarcinoma,Colorectal Cancer,crc3,80
+ERR1198209,Th17,Th17_12,Th17 Tumor CRC Adenocarcinoma,Colorectal Cancer,crc4,79
+ERR1198210,Th17,Th17_13,Th17 Healthy Tissue CRC Adenocarcinoma,Colorectal Cancer,crc7,84
+ERR1198211,Th17,Th17_14,Th17 Healthy Tissue CRC Adenocarcinoma,Colorectal Cancer,crc4,79
+ERR1198212,Th17,Th17_15,Th17 Healthy Tissue CRC Adenocarcinoma,Colorectal Cancer,crc9,54
+ERR1198213,Th17,Th17_16,Th17 Healthy Tissue CRC Adenocarcinoma,Colorectal Cancer,crc5,78
+ERR1198214,Th17,Th17_17,Th17 Healthy Tissue CRC Mucinous Adenocarcinoma,Colorectal Cancer,crc6,69
+ERR1198152,Treg,Treg_1,Treg Tumor NSCLC Squamous Cell Carcinoma,Non Small Cell Lung Cancer,nsclc7,78
+ERR1198153,Treg,Treg_2,Treg Tumor NSCLC Squamous Cell Carcinoma,Non Small Cell Lung Cancer,nsclc6,71
+ERR1198154,Treg,Treg_3,Treg Tumor NSCLC Adenocarcinoma,Non Small Cell Lung Cancer,nsclc8,77
+ERR1198155,Treg,Treg_4,Treg Tumor NSCLC Squamous Cell Carcinoma,Non Small Cell Lung Cancer,nsclc2,83
+ERR1198156,Treg,Treg_5,Treg Tumor NSCLC Squamous Cell Carcinoma,Non Small Cell Lung Cancer,nsclc4,79
+ERR1198157,Treg,Treg_6,Treg Tumor NSCLC Squamous Cell Carcinoma,Non Small Cell Lung Cancer,nsclc1,84
+ERR1198159,Treg,Treg_7,Treg Healthy Tissue NSCLC,Non Small Cell Lung Cancer,"nsclc5,nsclc6,nsclc7,nsclc8,nsclc9,nsclc10",
+ERR1198172,Treg,Treg_8,Treg Healthy Tissue CRC Adenocarcinoma,Colorectal Cancer,crc1,76
+ERR1198173,Treg,Treg_9,Treg Tumor CRC Adenocarcinoma,Colorectal Cancer,crc1,76
+ERR1198174,Treg,Treg_10,Treg Peripheral Blood,Peripheral Blood,b1,
+ERR1198175,Treg,Treg_11,Treg Peripheral Blood,Peripheral Blood,b2,
+ERR1198176,Treg,Treg_12,Treg Crohn,Crohn,c1,na
+ERR1198177,Treg,Treg_13,Treg Tumor NSCLC Adenocarcinoma,Non Small Cell Lung Cancer,nsclc10,77
+ERR1198178,Treg,Treg_14,Treg Tumor NSCLC Adenocarcinoma,Non Small Cell Lung Cancer,nsclc9,69
+ERR1198183,Treg,Treg_15,Treg Tumor CRC Adenocarcinoma,Colorectal Cancer,crc3,80
+ERR1198184,Treg,Treg_16,Treg Tumor CRC Adenocarcinoma,Colorectal Cancer,crc5,78
+ERR1198185,Treg,Treg_17,Treg Tumor CRC Adenocarcinoma,Colorectal Cancer,crc4,79
+ERR1198186,Treg,Treg_18,Treg Tumor CRC Mucinous Adenocarcinoma,Colorectal Cancer,crc8,75
+ERR1198187,Treg,Treg_19,Treg Tumor CRC Mucinous Adenocarcinoma,Colorectal Cancer,crc6,69
+ERR1198188,Treg,Treg_20,Treg Tumor CRC Adenocarcinoma,Colorectal Cancer,crc7,84
+ERR1198189,Treg,Treg_21,Treg Healthy Tissue CRC Adenocarcinoma,Colorectal Cancer,crc4,79
+ERR1198190,Treg,Treg_22,Treg Healthy Tissue CRC Adenocarcinoma,Colorectal Cancer,crc2,68
+ERR1198191,Treg,Treg_23,Treg Healthy Tissue CRC Adenocarcinoma,Colorectal Cancer,crc9,54
+ERR1198192,Treg,Treg_24,Treg Healthy Tissue CRC Adenocarcinoma,Colorectal Cancer,crc7,84
+ERR1198193,Treg,Treg_25,Treg Healthy Tissue CRC Mucinous Adenocarcinoma,Colorectal Cancer,crc6,69
+ERR1198194,Treg,Treg_26,Treg Healthy Tissue CRC Adenocarcinoma,Colorectal Cancer,crc5,78
+ERR1198215,Treg,Treg_27,,Peripheral Blood,,
