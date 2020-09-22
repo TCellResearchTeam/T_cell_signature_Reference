@@ -1,7 +1,4 @@
 # References
-[Dropbox](https://www.dropbox.com/sh/ndobd55vm9r41gm/AAA_-6BlCQquubntxeTpK1iqa?dl=0)
-
->[Mouse CD8 GSEA](https://github.com/Yolanda-HT/Exp391_Acute-Chronic_SC/tree/master/z_References)
 
 ## CD4 References
 1. **[ 2013_IMMUNITY_Locci ]** [Locci, Michela, et al. "Human circulating PD-1+ CXCR3− CXCR5+ memory Tfh cells are highly functional and correlate with broadly neutralizing HIV antibody responses." *Immunity* 39.4 (2013): 758-769.](https://www.sciencedirect.com/science/article/pii/S107476131300383X)
