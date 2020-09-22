@@ -1,0 +1,25 @@
+{
+    "read_files": [
+        "174_30_Total_1.fastq",
+        "174_30_Total_2.fastq"
+    ],
+    "expected_format": "IU",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 26159150,
+    "num_assigned_fragments": 26159150,
+    "num_frags_with_concordant_consistent_mappings": 24412299,
+    "num_frags_with_inconsistent_or_orphan_mappings": 2591347,
+    "strand_mapping_bias": 0.5001266369873645,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 12203058,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 12209241,
+    "SF": 786762,
+    "SR": 1804585,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}
