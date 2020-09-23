@@ -168,8 +168,8 @@ Exp391_CD8---DP_dn,Exp391_CD8,,Effector,DP down,9
 Exp391_CD8---DP_up,Exp391_CD8,,Effector,DP up,8
 Exp391_CD8---EE_dn,Exp391_CD8,,Effector,EE down,5
 Exp391_CD8---EE_up,Exp391_CD8,,Effector,EE up,4
-Exp391_CD8---EXH_dn,Exp391_CD8,,,,
-Exp391_CD8---EXH_up,Exp391_CD8,,,,
+Exp391_CD8---EXH_dn,Exp391_CD8,,Tex,Tex dn,1
+Exp391_CD8---EXH_up,Exp391_CD8,,Tex,Tex up,0
 Exp391_CD8---GSE132110_Tim3pos_vs_Tim3neg---Tim3neg,Exp391_CD8,,,,
 Exp391_CD8---GSE132110_Tim3pos_vs_Tim3neg---Tim3pos,Exp391_CD8,,,,
 Exp391_CD8---GSE68056_WT_vs_Blimp1KO---Blimp1KO,Exp391_CD8,,,,
@@ -182,10 +182,10 @@ Exp391_CD8---GSE72408_WT_vs_Tbx21KO---Tbx21KO,Exp391_CD8,n,,,
 Exp391_CD8---GSE72408_WT_vs_Tbx21KO---WT,Exp391_CD8,n,,,
 Exp391_CD8---GSE72408_WT_vs_Zeb2KO---WT,Exp391_CD8,n,,,
 Exp391_CD8---GSE72408_WT_vs_Zeb2KO---Zeb2KO,Exp391_CD8,n,,,
-Exp391_CD8---JJM_CirculatingSignature,Exp391_CD8,,,,
-Exp391_CD8---JJM_TrmSignature,Exp391_CD8,,,,
+Exp391_CD8---JJM_CirculatingSignature,Exp391_CD8,,MEM,JJM_Tcm,2
+Exp391_CD8---JJM_TrmSignature,Exp391_CD8,,MEM,JJM_Trm,3
 Exp391_CD8---MEM_dn,Exp391_CD8,,,,
-Exp391_CD8---MEM_up,Exp391_CD8,,,,
+Exp391_CD8---MEM_up,Exp391_CD8,,MEM,Rao_MEM,1
 Exp391_CD8---MP_dn,Exp391_CD8,,Effector,MP down,7
 Exp391_CD8---MP_up,Exp391_CD8,,Effector,MP up,6
 Exp391_CD8---NAV_dn,Exp391_CD8,,Effector,Naive down,1
@@ -196,14 +196,14 @@ Exp391_CD8---TE_up,Exp391_CD8,,Effector,TE up,10
 Exp391_CD8---TRM_biased,Exp391_CD8,,,,
 Exp391_CD8---Tcf7_promoted,Exp391_CD8,,,,
 Exp391_CD8---Tcf7_repressed,Exp391_CD8,,,,
-Exp391_CD8---Texint_dn,Exp391_CD8,,,,
-Exp391_CD8---Texint_up,Exp391_CD8,,,,
-Exp391_CD8---Texprog1_dn,Exp391_CD8,,,,
-Exp391_CD8---Texprog1_up,Exp391_CD8,,,,
-Exp391_CD8---Texprog2_dn,Exp391_CD8,,,,
-Exp391_CD8---Texprog2_up,Exp391_CD8,,,,
-Exp391_CD8---Texterm_dn,Exp391_CD8,,,,
-Exp391_CD8---Texterm_up,Exp391_CD8,,,,
+Exp391_CD8---Texint_dn,Exp391_CD8,,Tex,Tex_int down,3
+Exp391_CD8---Texint_up,Exp391_CD8,,Tex,Tex_int up,2
+Exp391_CD8---Texprog1_dn,Exp391_CD8,,Tex,Tex prog1 down,5
+Exp391_CD8---Texprog1_up,Exp391_CD8,,Tex,Tex prog1 up,4
+Exp391_CD8---Texprog2_dn,Exp391_CD8,,Tex,Tex prog2 down,7
+Exp391_CD8---Texprog2_up,Exp391_CD8,,Tex,Tex prog2 up,6
+Exp391_CD8---Texterm_dn,Exp391_CD8,,Tex,Tex_term dn,9
+Exp391_CD8---Texterm_up,Exp391_CD8,,Tex,Tex_term up,8
 Exp391_CD8---Tim3negBlimp1neg,Exp391_CD8,,,,
 Exp391_CD8---Tim3posBlimp1pos,Exp391_CD8,,,,
 Exp391_CD8---Tox_promoted,Exp391_CD8,,,,
@@ -227,3 +227,6 @@ Exp391_CD8---d5_KLRG1lo_Runx3_promoted,Exp391_CD8,,,,
 Exp391_CD8---d5_KLRG1lo_Runx3_repressed,Exp391_CD8,,,,
 Exp391_CD8---klf2_promoted,Exp391_CD8,,,,
 Exp391_CD8---klf2_repressed,Exp391_CD8,,,,
+TEM_vs_TCM-TRM,,,MEM,TEM_vs_TCM-TRM,5
+TCM_vs_TEM-TRM,,,MEM,TCM_vs_TEM-TRM,4
+TRM_vs_TCM-TEM,,,MEM,TRM_vs_TCM-TEM,6
