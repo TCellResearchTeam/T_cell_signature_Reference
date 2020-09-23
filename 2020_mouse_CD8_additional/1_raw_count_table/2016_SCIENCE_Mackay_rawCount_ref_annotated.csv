@@ -1,0 +1,39 @@
+GEO_Accession,source_name,tissue,sp_name,condition,sample_name,cond_abbr
+GSM1819901,Wild type _bone marrow,Bone marrow,AGRF-KG_01,BM_WT,BM_WT_1,BM_WT
+GSM1819902,Hobit knockout _bone marrow,Bone marrow,AGRF-KG_02,BM_Hobit_KO,BM_Hobit_KO_1,BM_Hobit_KO
+GSM1819903,Blimp1 knockout _bone marrow,Bone marrow,AGRF-KG_03,BM_Blimp1_KO,BM_Blimp1_KO_1,BM_Blimp1_KO
+GSM1819904,Blimp1/Hobit double knockout _bone marrow,Bone marrow,AGRF-KG_04,BM_Hobit-Blimp1_DKO,BM_Hobit-Blimp1_DKO_1,BM_Hobit-Blimp1_DKO
+GSM1819905,Wild type _bone marrow,Bone marrow,AGRF-KG_05,BM_WT,BM_WT_2,BM_WT
+GSM1819906,Hobit knockout _bone marrow,Bone marrow,AGRF-KG_06,BM_Hobit_KO,BM_Hobit_KO_2,BM_Hobit_KO
+GSM1819907,Blimp1 knockout _bone marrow,Bone marrow,AGRF-KG_07,BM_Blimp1_KO,BM_Blimp1_KO_2,BM_Blimp1_KO
+GSM1819908,Blimp1/Hobit double knockout _bone marrow,Bone marrow,AGRF-KG_08,BM_Hobit-Blimp1_DKO,BM_Hobit-Blimp1_DKO_2,BM_Hobit-Blimp1_DKO
+GSM1819909,Wild type _bone marrow,Bone marrow,AGRF-KG_09,BM_WT,BM_WT_3,BM_WT
+GSM1819910,Hobit knockout _bone marrow,Bone marrow,AGRF-KG_10,BM_Hobit_KO,BM_Hobit_KO_3,BM_Hobit_KO
+GSM1819911,Blimp1 knockout _bone marrow,Bone marrow,AGRF-KG_11,BM_Blimp1_KO,BM_Blimp1_KO_3,BM_Blimp1_KO
+GSM1819912,Blimp1/Hobit double knockout _bone marrow,Bone marrow,AGRF-KG_12,BM_Hobit-Blimp1_DKO,BM_Hobit-Blimp1_DKO_3,BM_Hobit-Blimp1_DKO
+GSM1819913,Naïve CD8 T cells_spleen,Spleen,C1_C5N42ANXX_ATCACGAT,Naive,Naive_1,Naive
+GSM1819914,LCMV central memory CD8 T cells_spleen,Spleen,C2_C5N42ANXX_CGATGTAT,LCMV_Tcm_sp,LCMV_Tcm_sp_1,Tcm
+GSM1819915,LCMV effector memory CD8 T cells_spleen,Spleen,C3_C5N42ANXX_TTAGGCAT,LCMV_Tem_sp,LCMV_Tem_sp_1,Tem
+GSM1819916,LCMV effector memory CD8 T cells_liver,Liver,C4_C5N42ANXX_TGACCAAT,LCMV_Tem_Liver,LCMV_Tem_Liver_1,Tem
+GSM1819917,LCMV tissue-resident memory CD8 T cells_liver,Liver,C5_C5N42ANXX_ACAGTGAT,LCMV_Trm_Liver,LCMV_Trm_Liver_1,Trm
+GSM1819918,LCMV tissue-resident memory CD8 T cells_gut,Gut,C6_C5N42ANXX_GCCAATAT,LCMV_Trm_Gut,LCMV_Trm_Gut_1,Trm
+GSM1819919,LCMV conventional nature killer cells_liver,Liver,C7_C5N42ANXX_CAGATCAT,LCMV_cNK_Liver,LCMV_cNK_Liver_1,NK
+GSM1819920,LCMV tissue-resident nature killer cells_liver,Liver,C8_C5N42ANXX_ACTTGAAT,LCMV_TrNK_Liver,LCMV_TrNK_Liver_1,NK
+GSM1819921,LCMV nature killer T cells_liver,Liver,C9_C5N42ANXX_GATCAGAT,LCMV_NK_Liver,LCMV_NK_Liver_1,NK
+GSM1819922,Naïve CD8 T cells_spleen,Spleen,D1_C5N42ANXX_TAGCTTAT,Naive,Naive_2,Naive
+GSM1819923,LCMV central memory CD8 T cells_spleen,Spleen,D2_C5N42ANXX_GGCTACAT,LCMV_Tcm_sp,LCMV_Tcm_sp_2,Tcm
+GSM1819924,LCMV effector memory CD8 T cells_spleen,Spleen,D3_C5N42ANXX_CTTGTAAT,LCMV_Tem_sp,LCMV_Tem_sp_2,Tem
+GSM1819925,LCMV effector memory CD8 T cells_liver,Liver,D4_C5N42ANXX_AGTCAACA,LCMV_Tem_Liver,LCMV_Tem_Liver_2,Tem
+GSM1819926,LCMV tissue-resident memory CD8 T cells_liver,Liver,D5_C5N42ANXX_AGTTCCGT,LCMV_Trm_Liver,LCMV_Trm_Liver_2,Trm
+GSM1819927,LCMV tissue-resident memory CD8 T cells_gut,Gut,D6_C5N42ANXX_ATGTCAGA,LCMV_Trm_Gut,LCMV_Trm_Gut_2,Trm
+GSM1819928,LCMV conventional nature killer cells_liver,Liver,D7_C5N42ANXX_CCGTCCCG,LCMV_cNK_Liver,LCMV_cNK_Liver_2,NK
+GSM1819929,LCMV tissue-resident nature killer cells_liver,Liver,D8_C5N42ANXX_GTCCGCAC,LCMV_TrNK_Liver,LCMV_TrNK_Liver_2,NK
+GSM1819930,LCMV nature killer T cells_liver,Liver,D9_C5N42ANXX_GTGAAACG,LCMV_NK_Liver,LCMV_NK_Liver_2,NK
+GSM1819931,Naïve CD8 T cells_spleen,Spleen,Klaas_Sample1_C6GUTANXX_GGCTACAT_L003,Naive,Naive_3,Naive
+GSM1819932,Naïve CD8 T cells_spleen,Spleen,Klaas_Sample2_C6GUTANXX_CTTGTAAT_L003,Naive,Naive_4,Naive
+GSM1819933,HSV tissue-resident memory CD8 T cells_skin,Skin,Skin_TRM_Sort1_C6GUTANXX_ATGTCAGA_L003,HSV_Trm_Skin,HSV_Trm_Skin_1,Trm
+GSM1819934,HSV tissue-resident memory CD8 T cells_skin,Skin,Skin_TRM_Sort2_C6GUTANXX_GTGAAACG_L003,HSV_Trm_Skin,HSV_Trm_Skin_2,Trm
+GSM1819935,HSV central memory CD8 T cells_spleen,Spleen,Spleen_TCM_Sort1_C6GUTANXX_AGTCAACA_L003,HSV_Tcm_sp,HSV_Tcm_sp_1,Tcm
+GSM1819936,HSV central memory CD8 T cells_spleen,Spleen,Spleen_TCM_Sort2_C6GUTANXX_CCGTCCCG_L003,HSV_Tcm_sp,HSV_Tcm_sp_2,Tcm
+GSM1819937,HSV effector memory CD8 T cells_spleen,Spleen,Spleen_TEM_Sort1_C6GUTANXX_AGTTCCGT_L003,HSV_Tem_sp,HSV_Tem_sp_1,Tem
+GSM1819938,HSV effector memory CD8 T cells_spleen,Spleen,Spleen_TEM_Sort2_C6GUTANXX_GTCCGCAC_L003,HSV_Tem_sp,HSV_Tem_sp_2,Tem
