@@ -1,0 +1,49 @@
+[2020-09-28 16:30:12.442] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2020-09-28 16:30:12.443] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2020-09-28 16:30:12.443] [jointLog] [info] Usage of --validateMappings, without --hardFilter implies use of range factorization. rangeFactorizationBins is being set to 4
+[2020-09-28 16:30:12.443] [jointLog] [info] Usage of --validateMappings implies a default consensus slack of 0.2. Setting consensusSlack to 0.2.
+[2020-09-28 16:30:12.443] [jointLog] [info] parsing read library format
+[2020-09-28 16:30:12.443] [jointLog] [info] There is 1 library.
+[2020-09-28 16:30:12.526] [jointLog] [info] Loading Quasi index
+[2020-09-28 16:30:12.532] [jointLog] [info] Loading 32-bit quasi index
+[2020-09-28 16:30:45.139] [jointLog] [info] done
+[2020-09-28 16:30:45.139] [jointLog] [info] Index contained 117,135 targets
+[2020-09-28 16:30:45.956] [jointLog] [info] Automatically detected most likely library type as IU
+[2020-09-28 16:32:38.166] [fileLog] [info] 
+At end of round 0
+==================
+Observed 30265928 total fragments (30265928 in most recent round)
+
+[2020-09-28 16:32:38.165] [jointLog] [info] Computed 367,987 rich equivalence classes for further processing
+[2020-09-28 16:32:38.165] [jointLog] [info] Counted 23,098,197 total reads in the equivalence classes 
+[2020-09-28 16:32:38.196] [jointLog] [info] Number of mappings discarded because of alignment score : 950,367
+[2020-09-28 16:32:38.196] [jointLog] [info] Number of fragments entirely discarded because of alignment score : 67,650
+[2020-09-28 16:32:38.196] [jointLog] [info] Number of fragments discarded because they are best-mapped to decoys : 0
+[2020-09-28 16:32:38.196] [jointLog] [info] Number of fragments discarded because they have only dovetail (discordant) mappings : 86,988
+[2020-09-28 16:32:38.196] [jointLog] [info] Mapping rate = 76.3175%
+
+[2020-09-28 16:32:38.196] [jointLog] [info] finished quantifyLibrary()
+[2020-09-28 16:32:38.206] [jointLog] [info] Starting optimizer
+[2020-09-28 16:32:38.326] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2020-09-28 16:32:38.342] [jointLog] [info] iteration = 0 | max rel diff. = 10492
+[2020-09-28 16:32:39.864] [jointLog] [info] iteration = 100 | max rel diff. = 11.6687
+[2020-09-28 16:32:41.384] [jointLog] [info] iteration = 200 | max rel diff. = 6.20169
+[2020-09-28 16:32:42.904] [jointLog] [info] iteration = 300 | max rel diff. = 11.2697
+[2020-09-28 16:32:44.424] [jointLog] [info] iteration = 400 | max rel diff. = 0.247105
+[2020-09-28 16:32:45.944] [jointLog] [info] iteration = 500 | max rel diff. = 2.40439
+[2020-09-28 16:32:47.462] [jointLog] [info] iteration = 600 | max rel diff. = 0.263512
+[2020-09-28 16:32:48.982] [jointLog] [info] iteration = 700 | max rel diff. = 0.063726
+[2020-09-28 16:32:50.502] [jointLog] [info] iteration = 800 | max rel diff. = 0.158141
+[2020-09-28 16:32:52.020] [jointLog] [info] iteration = 900 | max rel diff. = 0.0436948
+[2020-09-28 16:32:53.540] [jointLog] [info] iteration = 1,000 | max rel diff. = 0.040526
+[2020-09-28 16:32:55.071] [jointLog] [info] iteration = 1,100 | max rel diff. = 0.411939
+[2020-09-28 16:32:56.592] [jointLog] [info] iteration = 1,200 | max rel diff. = 0.817191
+[2020-09-28 16:32:58.112] [jointLog] [info] iteration = 1,300 | max rel diff. = 0.0712104
+[2020-09-28 16:32:59.631] [jointLog] [info] iteration = 1,400 | max rel diff. = 0.0229929
+[2020-09-28 16:33:01.151] [jointLog] [info] iteration = 1,500 | max rel diff. = 0.0139549
+[2020-09-28 16:33:02.671] [jointLog] [info] iteration = 1,600 | max rel diff. = 0.0240837
+[2020-09-28 16:33:04.190] [jointLog] [info] iteration = 1,700 | max rel diff. = 0.17584
+[2020-09-28 16:33:05.058] [jointLog] [info] iteration = 1,758 | max rel diff. = 0.00855783
+[2020-09-28 16:33:05.061] [jointLog] [info] Finished optimizer
+[2020-09-28 16:33:05.061] [jointLog] [info] writing output 
+

@@ -1,0 +1,11 @@
+{
+    "salmon_version": "0.14.1",
+    "index": "/gpfs/group/pipkin/hdiao/ref_resources/mm/release100/GRCm38.salmon.index",
+    "libType": "A",
+    "threads": "16",
+    "validateMappings": [],
+    "mates1": "174_27_Total_1.fastq",
+    "mates2": "174_27_Total_2.fastq",
+    "output": "/gpfs/group/pipkin/hdiao/Exp174/174_27_quant",
+    "auxDir": "aux_info"
+}

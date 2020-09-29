@@ -1,0 +1,21 @@
+{
+    "salmon_version": "0.14.1",
+    "index": "/gpfs/group/pipkin/hdiao/ref_resources/mm/release100/GRCm38.salmon.index",
+    "libType": "A",
+    "threads": "16",
+    "validateMappings": [],
+    "mates1": [
+        "36_2-15242230/Naive-control-2_S15_L001_R1_001.fastq",
+        "36_2-15242230/Naive-control-2_S15_L002_R1_001.fastq",
+        "36_2-15242230/Naive-control-2_S15_L003_R1_001.fastq",
+        "36_2-15242230/Naive-control-2_S15_L004_R1_001.fastq"
+    ],
+    "mates2": [
+        "36_2-15242230/Naive-control-2_S15_L001_R2_001.fastq",
+        "36_2-15242230/Naive-control-2_S15_L002_R2_001.fastq",
+        "36_2-15242230/Naive-control-2_S15_L003_R2_001.fastq",
+        "36_2-15242230/Naive-control-2_S15_L004_R2_001.fastq"
+    ],
+    "output": "Exp36_Naive2",
+    "auxDir": "aux_info"
+}

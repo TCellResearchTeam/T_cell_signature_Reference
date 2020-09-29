@@ -1,0 +1,21 @@
+{
+    "read_files": "[ [ 36_1-15232220/Naive-control-1_S1_L001_R1_001.fastq, 36_1-15232220/Naive-control-1_S1_L001_R2_001.fastq], [ 36_1-15232220/Naive-control-1_S1_L002_R1_001.fastq, 36_1-15232220/Naive-control-1_S1_L002_R2_001.fastq], [ 36_1-15232220/Naive-control-1_S1_L003_R1_001.fastq, 36_1-15232220/Naive-control-1_S1_L003_R2_001.fastq], [ 36_1-15232220/Naive-control-1_S1_L004_R1_001.fastq, 36_1-15232220/Naive-control-1_S1_L004_R2_001.fastq] ]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 10251776,
+    "num_assigned_fragments": 10251776,
+    "num_frags_with_consistent_mappings": 8670143,
+    "num_frags_with_inconsistent_or_orphan_mappings": 1582245,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 691,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 8670143,
+    "SF": 737199,
+    "SR": 844355,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

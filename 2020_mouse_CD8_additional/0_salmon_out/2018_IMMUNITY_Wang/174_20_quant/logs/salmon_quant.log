@@ -1,0 +1,57 @@
+[2019-04-23 12:35:13.279] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2019-04-23 12:35:13.279] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2019-04-23 12:35:13.279] [jointLog] [info] Usage of --validateMappings, without --hardFilter implies use of range factorization. rangeFactorizationBins is being set to 4
+[2019-04-23 12:35:13.279] [jointLog] [info] Usage of --validateMappings implies a default consensus slack of 0.2. Setting consensusSlack to 0.2.
+[2019-04-23 12:35:13.279] [jointLog] [info] parsing read library format
+[2019-04-23 12:35:13.279] [jointLog] [info] There is 1 library.
+[2019-04-23 12:35:13.331] [jointLog] [info] Loading Quasi index
+[2019-04-23 13:32:52.944] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2019-04-23 13:32:52.944] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2019-04-23 13:32:52.944] [jointLog] [info] Usage of --validateMappings, without --hardFilter implies use of range factorization. rangeFactorizationBins is being set to 4
+[2019-04-23 13:32:52.944] [jointLog] [info] Usage of --validateMappings implies a default consensus slack of 0.2. Setting consensusSlack to 0.2.
+[2019-04-23 13:32:52.944] [jointLog] [info] parsing read library format
+[2019-04-23 13:32:52.944] [jointLog] [info] There is 1 library.
+[2019-04-23 13:32:53.001] [jointLog] [info] Loading Quasi index
+[2019-04-23 13:32:53.004] [jointLog] [info] Loading 32-bit quasi index
+[2019-04-23 13:33:16.786] [jointLog] [info] done
+[2019-04-23 13:33:16.786] [jointLog] [info] Index contained 116,248 targets
+[2019-04-23 14:24:56.502] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2019-04-23 14:24:56.507] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2019-04-23 14:24:56.507] [jointLog] [info] Usage of --validateMappings, without --hardFilter implies use of range factorization. rangeFactorizationBins is being set to 4
+[2019-04-23 14:24:56.508] [jointLog] [info] Usage of --validateMappings implies a default consensus slack of 0.2. Setting consensusSlack to 0.2.
+[2019-04-23 14:24:56.508] [jointLog] [info] parsing read library format
+[2019-04-23 14:24:56.508] [jointLog] [info] There is 1 library.
+[2019-04-23 14:24:56.633] [jointLog] [info] Loading Quasi index
+[2019-04-23 14:24:56.636] [jointLog] [info] Loading 32-bit quasi index
+[2019-04-23 14:25:25.061] [jointLog] [info] done
+[2019-04-23 14:25:25.061] [jointLog] [info] Index contained 116,248 targets
+[2019-04-23 14:25:26.438] [jointLog] [info] Automatically detected most likely library type as IU
+[2019-04-23 14:27:12.337] [fileLog] [info] 
+At end of round 0
+==================
+Observed 22817177 total fragments (22817177 in most recent round)
+
+[2019-04-23 14:27:12.336] [jointLog] [info] Computed 330,283 rich equivalence classes for further processing
+[2019-04-23 14:27:12.336] [jointLog] [info] Counted 19,681,544 total reads in the equivalence classes 
+[2019-04-23 14:27:12.381] [jointLog] [info] Number of mappings discarded because of alignment score : 2,261,883
+[2019-04-23 14:27:12.381] [jointLog] [info] Number of fragments entirely discarded because of alignment score : 508,544
+[2019-04-23 14:27:12.381] [jointLog] [info] Number of fragments discarded because they have only dovetail (discordant) mappings : 154,785
+[2019-04-23 14:27:12.381] [jointLog] [info] Mapping rate = 86.2576%
+
+[2019-04-23 14:27:12.381] [jointLog] [info] finished quantifyLibrary()
+[2019-04-23 14:27:12.410] [jointLog] [info] Starting optimizer
+[2019-04-23 14:27:15.194] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2019-04-23 14:27:15.209] [jointLog] [info] iteration = 0 | max rel diff. = 10118.3
+[2019-04-23 14:27:16.640] [jointLog] [info] iteration = 100 | max rel diff. = 15.526
+[2019-04-23 14:27:18.068] [jointLog] [info] iteration = 200 | max rel diff. = 15.9271
+[2019-04-23 14:27:19.493] [jointLog] [info] iteration = 300 | max rel diff. = 0.293305
+[2019-04-23 14:27:20.918] [jointLog] [info] iteration = 400 | max rel diff. = 0.232186
+[2019-04-23 14:27:22.344] [jointLog] [info] iteration = 500 | max rel diff. = 7.30453
+[2019-04-23 14:27:23.770] [jointLog] [info] iteration = 600 | max rel diff. = 0.284673
+[2019-04-23 14:27:25.195] [jointLog] [info] iteration = 700 | max rel diff. = 0.168233
+[2019-04-23 14:27:26.620] [jointLog] [info] iteration = 800 | max rel diff. = 0.0598144
+[2019-04-23 14:27:28.045] [jointLog] [info] iteration = 900 | max rel diff. = 0.212222
+[2019-04-23 14:27:28.829] [jointLog] [info] iteration = 956 | max rel diff. = 0.00880945
+[2019-04-23 14:27:28.832] [jointLog] [info] Finished optimizer
+[2019-04-23 14:27:28.833] [jointLog] [info] writing output 
+

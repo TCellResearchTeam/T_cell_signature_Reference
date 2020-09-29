@@ -1,0 +1,110 @@
+### salmon (mapping-based) v0.13.1
+### [ program ] => salmon 
+### [ command ] => quant 
+### [ index ] => { /gpfs/home/hdiao/resources/Transcript/mm10_index_ensembl }
+### [ libType ] => { A }
+### [ threads ] => { 16 }
+### [ validateMappings ] => { }
+### [ mates1 ] => { 174_20_Total_1.fastq }
+### [ mates2 ] => { 174_20_Total_2.fastq }
+### [ output ] => { /gpfs/group/pipkin/Exp174/174_20_quant }
+Logs will be written to /gpfs/group/pipkin/Exp174/174_20_quant/logs
+[2019-04-23 14:24:56.502] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2019-04-23 14:24:56.507] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2019-04-23 14:24:56.507] [jointLog] [info] Usage of --validateMappings, without --hardFilter implies use of range factorization. rangeFactorizationBins is being set to 4
+[2019-04-23 14:24:56.508] [jointLog] [info] Usage of --validateMappings implies a default consensus slack of 0.2. Setting consensusSlack to 0.2.
+[2019-04-23 14:24:56.508] [jointLog] [info] parsing read library format
+[2019-04-23 14:24:56.508] [jointLog] [info] There is 1 library.
+[2019-04-23 14:24:56.633] [jointLog] [info] Loading Quasi index
+[2019-04-23 14:24:56.636] [jointLog] [info] Loading 32-bit quasi index
+[2019-04-23 14:24:56.638] [stderrLog] [info] Loading Suffix Array 
+[2019-04-23 14:25:12.797] [stderrLog] [info] Loading Transcript Info 
+[2019-04-23 14:25:20.834] [stderrLog] [info] Loading Rank-Select Bit Array
+[2019-04-23 14:25:23.044] [stderrLog] [info] There were 116,248 set bits in the bit array
+[2019-04-23 14:25:23.098] [stderrLog] [info] Computing transcript lengths
+[2019-04-23 14:25:23.098] [stderrLog] [info] Waiting to finish loading hash
+
+
+
+
+[2019-04-23 14:25:25.061] [jointLog] [info] done
+[2019-04-23 14:25:25.061] [jointLog] [info] Index contained 116,248 targets
+[2019-04-23 14:25:25.061] [stderrLog] [info] Done loading index
+[2019-04-23 14:25:26.438] [jointLog] [info] Automatically detected most likely library type as IU
+[A[32mprocessed[31m 500,000 [32mfragments[0m
+hits: 1,294,379, hits per frag:  2.93147[A[32mprocessed[31m 1,000,000 [32mfragments[0m
+hits: 2,583,197, hits per frag:  2.7903[A[32mprocessed[31m 1,500,000 [32mfragments[0m
+hits: 3,882,138, hits per frag:  2.61423[A[32mprocessed[31m 2,000,000 [32mfragments[0m
+hits: 5,175,944, hits per frag:  2.71552[A[32mprocessed[31m 2,500,000 [32mfragments[0m
+hits: 6,470,405, hits per frag:  2.66821[A[32mprocessed[31m 3,000,001 [32mfragments[0m
+hits: 7,767,401, hits per frag:  2.61523[A[32mprocessed[31m 3,500,000 [32mfragments[0m
+hits: 9,048,335, hits per frag:  2.63315[A[32mprocessed[31m 4,000,001 [32mfragments[0m
+hits: 10,350,174, hits per frag:  2.61011[A[32mprocessed[31m 4,500,000 [32mfragments[0m
+hits: 11,641,827, hits per frag:  2.61934[A[32mprocessed[31m 5,000,000 [32mfragments[0m
+hits: 12,946,710, hits per frag:  2.62065[A[32mprocessed[31m 5,500,000 [32mfragments[0m
+hits: 14,238,586, hits per frag:  2.6028[A[32mprocessed[31m 6,000,001 [32mfragments[0m
+hits: 15,538,882, hits per frag:  2.66118[A[32mprocessed[31m 6,500,000 [32mfragments[0m
+hits: 16,839,988, hits per frag:  2.61298[A[32mprocessed[31m 7,000,000 [32mfragments[0m
+hits: 18,141,868, hits per frag:  2.62685[A[32mprocessed[31m 7,500,000 [32mfragments[0m
+hits: 19,428,868, hits per frag:  2.60717[A[32mprocessed[31m 8,000,000 [32mfragments[0m
+hits: 20,720,103, hits per frag:  2.6028[A[32mprocessed[31m 8,500,001 [32mfragments[0m
+hits: 22,021,626, hits per frag:  2.62404[A[32mprocessed[31m 9,000,000 [32mfragments[0m
+hits: 23,317,147, hits per frag:  2.61175[A[32mprocessed[31m 9,500,000 [32mfragments[0m
+hits: 24,638,756, hits per frag:  2.61374[A[32mprocessed[31m 10,000,000 [32mfragments[0m
+hits: 25,928,044, hits per frag:  2.6032[A[32mprocessed[31m 10,500,000 [32mfragments[0m
+hits: 27,253,709, hits per frag:  2.60147[A[32mprocessed[31m 11,000,000 [32mfragments[0m
+hits: 28,541,211, hits per frag:  2.60637[A[32mprocessed[31m 11,500,000 [32mfragments[0m
+hits: 29,852,697, hits per frag:  2.60577[A[32mprocessed[31m 12,000,000 [32mfragments[0m
+hits: 31,140,415, hits per frag:  2.60371[A[32mprocessed[31m 12,500,000 [32mfragments[0m
+hits: 32,435,916, hits per frag:  2.59915[A[32mprocessed[31m 13,000,000 [32mfragments[0m
+hits: 33,726,331, hits per frag:  2.60474[A[32mprocessed[31m 13,500,002 [32mfragments[0m
+hits: 35,018,928, hits per frag:  2.60311[A[32mprocessed[31m 14,000,000 [32mfragments[0m
+hits: 36,311,782, hits per frag:  2.60773[A[32mprocessed[31m 14,500,000 [32mfragments[0m
+hits: 37,601,414, hits per frag:  2.60243[A[32mprocessed[31m 15,000,001 [32mfragments[0m
+hits: 38,889,660, hits per frag:  2.6122[A[32mprocessed[31m 15,500,000 [32mfragments[0m
+hits: 40,188,979, hits per frag:  2.59644[A[32mprocessed[31m 16,000,000 [32mfragments[0m
+hits: 41,484,921, hits per frag:  2.60264[A[32mprocessed[31m 16,500,000 [32mfragments[0m
+hits: 42,773,978, hits per frag:  2.60154[A[32mprocessed[31m 17,000,000 [32mfragments[0m
+hits: 44,063,892, hits per frag:  2.60138[A[32mprocessed[31m 17,500,000 [32mfragments[0m
+hits: 45,363,782, hits per frag:  2.60233[A[32mprocessed[31m 18,000,000 [32mfragments[0m
+hits: 46,664,222, hits per frag:  2.6018[A[32mprocessed[31m 18,500,000 [32mfragments[0m
+hits: 47,959,901, hits per frag:  2.59734[A[32mprocessed[31m 19,000,000 [32mfragments[0m
+hits: 49,253,911, hits per frag:  2.59409[A[32mprocessed[31m 19,500,001 [32mfragments[0m
+hits: 50,562,623, hits per frag:  2.60518[A[32mprocessed[31m 20,000,000 [32mfragments[0m
+hits: 51,860,538, hits per frag:  2.59783[A[32mprocessed[31m 20,500,000 [32mfragments[0m
+hits: 53,179,858, hits per frag:  2.59876[A[32mprocessed[31m 21,000,000 [32mfragments[0m
+hits: 54,479,627, hits per frag:  2.60367[A[32mprocessed[31m 21,500,001 [32mfragments[0m
+hits: 55,796,427, hits per frag:  2.59746[A[32mprocessed[31m 22,000,000 [32mfragments[0m
+hits: 57,097,696, hits per frag:  2.59987[A[32mprocessed[31m 22,500,001 [32mfragments[0m
+hits: 58,412,688, hits per frag:  2.60511
+
+
+
+
+
+
+
+[2019-04-23 14:27:12.336] [jointLog] [info] Computed 330,283 rich equivalence classes for further processing
+[2019-04-23 14:27:12.336] [jointLog] [info] Counted 19,681,544 total reads in the equivalence classes 
+[2019-04-23 14:27:12.381] [jointLog] [info] Number of mappings discarded because of alignment score : 2,261,883
+[2019-04-23 14:27:12.381] [jointLog] [info] Number of fragments entirely discarded because of alignment score : 508,544
+[2019-04-23 14:27:12.381] [jointLog] [info] Number of fragments discarded because they have only dovetail (discordant) mappings : 154,785
+[2019-04-23 14:27:12.381] [jointLog] [info] Mapping rate = 86.2576%
+
+[2019-04-23 14:27:12.381] [jointLog] [info] finished quantifyLibrary()
+[2019-04-23 14:27:12.410] [jointLog] [info] Starting optimizer
+[2019-04-23 14:27:15.194] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2019-04-23 14:27:15.209] [jointLog] [info] iteration = 0 | max rel diff. = 10118.3
+[2019-04-23 14:27:16.640] [jointLog] [info] iteration = 100 | max rel diff. = 15.526
+[2019-04-23 14:27:18.068] [jointLog] [info] iteration = 200 | max rel diff. = 15.9271
+[2019-04-23 14:27:19.493] [jointLog] [info] iteration = 300 | max rel diff. = 0.293305
+[2019-04-23 14:27:20.918] [jointLog] [info] iteration = 400 | max rel diff. = 0.232186
+[2019-04-23 14:27:22.344] [jointLog] [info] iteration = 500 | max rel diff. = 7.30453
+[2019-04-23 14:27:23.770] [jointLog] [info] iteration = 600 | max rel diff. = 0.284673
+[2019-04-23 14:27:25.195] [jointLog] [info] iteration = 700 | max rel diff. = 0.168233
+[2019-04-23 14:27:26.620] [jointLog] [info] iteration = 800 | max rel diff. = 0.0598144
+[2019-04-23 14:27:28.045] [jointLog] [info] iteration = 900 | max rel diff. = 0.212222
+[2019-04-23 14:27:28.829] [jointLog] [info] iteration = 956 | max rel diff. = 0.00880945
+[2019-04-23 14:27:28.832] [jointLog] [info] Finished optimizer
+[2019-04-23 14:27:28.833] [jointLog] [info] writing output 
+

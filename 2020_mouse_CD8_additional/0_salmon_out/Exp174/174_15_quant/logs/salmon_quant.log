@@ -1,0 +1,46 @@
+[2020-09-28 16:30:00.154] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2020-09-28 16:30:00.155] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2020-09-28 16:30:00.155] [jointLog] [info] Usage of --validateMappings, without --hardFilter implies use of range factorization. rangeFactorizationBins is being set to 4
+[2020-09-28 16:30:00.155] [jointLog] [info] Usage of --validateMappings implies a default consensus slack of 0.2. Setting consensusSlack to 0.2.
+[2020-09-28 16:30:00.155] [jointLog] [info] parsing read library format
+[2020-09-28 16:30:00.155] [jointLog] [info] There is 1 library.
+[2020-09-28 16:30:00.285] [jointLog] [info] Loading Quasi index
+[2020-09-28 16:30:00.300] [jointLog] [info] Loading 32-bit quasi index
+[2020-09-28 16:30:25.350] [jointLog] [info] done
+[2020-09-28 16:30:25.350] [jointLog] [info] Index contained 117,135 targets
+[2020-09-28 16:30:26.757] [jointLog] [info] Automatically detected most likely library type as IU
+[2020-09-28 16:31:50.546] [fileLog] [info] 
+At end of round 0
+==================
+Observed 22661737 total fragments (22661737 in most recent round)
+
+[2020-09-28 16:31:50.545] [jointLog] [info] Computed 269,473 rich equivalence classes for further processing
+[2020-09-28 16:31:50.545] [jointLog] [info] Counted 20,289,765 total reads in the equivalence classes 
+[2020-09-28 16:31:50.587] [jointLog] [info] Number of mappings discarded because of alignment score : 563,514
+[2020-09-28 16:31:50.587] [jointLog] [info] Number of fragments entirely discarded because of alignment score : 60,343
+[2020-09-28 16:31:50.587] [jointLog] [info] Number of fragments discarded because they are best-mapped to decoys : 0
+[2020-09-28 16:31:50.587] [jointLog] [info] Number of fragments discarded because they have only dovetail (discordant) mappings : 48,587
+[2020-09-28 16:31:50.587] [jointLog] [info] Mapping rate = 89.5331%
+
+[2020-09-28 16:31:50.587] [jointLog] [info] finished quantifyLibrary()
+[2020-09-28 16:31:50.596] [jointLog] [info] Starting optimizer
+[2020-09-28 16:31:50.719] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2020-09-28 16:31:50.734] [jointLog] [info] iteration = 0 | max rel diff. = 10247.2
+[2020-09-28 16:31:52.168] [jointLog] [info] iteration = 100 | max rel diff. = 7.03183
+[2020-09-28 16:31:53.598] [jointLog] [info] iteration = 200 | max rel diff. = 15.8308
+[2020-09-28 16:31:55.028] [jointLog] [info] iteration = 300 | max rel diff. = 1.88421
+[2020-09-28 16:31:56.456] [jointLog] [info] iteration = 400 | max rel diff. = 0.714792
+[2020-09-28 16:31:57.883] [jointLog] [info] iteration = 500 | max rel diff. = 0.178896
+[2020-09-28 16:31:59.312] [jointLog] [info] iteration = 600 | max rel diff. = 0.307121
+[2020-09-28 16:32:00.739] [jointLog] [info] iteration = 700 | max rel diff. = 0.0706713
+[2020-09-28 16:32:02.171] [jointLog] [info] iteration = 800 | max rel diff. = 0.0941707
+[2020-09-28 16:32:03.599] [jointLog] [info] iteration = 900 | max rel diff. = 0.199841
+[2020-09-28 16:32:05.027] [jointLog] [info] iteration = 1,000 | max rel diff. = 0.015956
+[2020-09-28 16:32:06.454] [jointLog] [info] iteration = 1,100 | max rel diff. = 0.028829
+[2020-09-28 16:32:07.882] [jointLog] [info] iteration = 1,200 | max rel diff. = 0.853632
+[2020-09-28 16:32:09.310] [jointLog] [info] iteration = 1,300 | max rel diff. = 0.12002
+[2020-09-28 16:32:10.738] [jointLog] [info] iteration = 1,400 | max rel diff. = 0.354902
+[2020-09-28 16:32:12.151] [jointLog] [info] iteration = 1,500 | max rel diff. = 0.00834963
+[2020-09-28 16:32:12.154] [jointLog] [info] Finished optimizer
+[2020-09-28 16:32:12.154] [jointLog] [info] writing output 
+
