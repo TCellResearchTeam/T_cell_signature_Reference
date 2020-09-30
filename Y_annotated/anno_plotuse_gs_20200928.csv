@@ -162,11 +162,11 @@ gs_name,type,use,plot_use,abbr,order
 2020_NAT_IMMUNOL_Hayward---Lung_Vasculature_TRM,CD8,,,,
 2020_NAT_IMMUNOL_Hayward---Parenchyma_TRM,CD8,,,,
 2020_NAT_IMMUNOL_Hayward---Spleen_TCM,CD8,,,,
-Exp391_CD8---Act48h_dn,Exp391_CD8,,Effector,48h Act down,3
-Exp391_CD8---Act48h_up,Exp391_CD8,,Effector,48h Act up,2
-Exp391_CD8---DP_dn,Exp391_CD8,,Effector,DP down,9
-Exp391_CD8---DP_up,Exp391_CD8,,Effector,DP up,8
-Exp391_CD8---EE_dn,Exp391_CD8,,Effector,EE down,5
+Exp391_CD8---Act48h_dn,Exp391_CD8,,,,
+Exp391_CD8---Act48h_up,Exp391_CD8,,Effector,48h Act up,1
+Exp391_CD8---DP_dn,Exp391_CD8,,,,
+Exp391_CD8---DP_up,Exp391_CD8,,Effector,DP up,6
+Exp391_CD8---EE_dn,Exp391_CD8,,,,
 Exp391_CD8---EE_up,Exp391_CD8,,Effector,EE up,4
 Exp391_CD8---EXH_dn,Exp391_CD8,,Tex,Tex dn,1
 Exp391_CD8---EXH_up,Exp391_CD8,,Tex,Tex up,0
@@ -186,13 +186,13 @@ Exp391_CD8---JJM_CirculatingSignature,Exp391_CD8,,MEM,JJM_Tcm,2
 Exp391_CD8---JJM_TrmSignature,Exp391_CD8,,MEM,JJM_Trm,3
 Exp391_CD8---MEM_dn,Exp391_CD8,,,,
 Exp391_CD8---MEM_up,Exp391_CD8,,MEM,Rao_MEM,1
-Exp391_CD8---MP_dn,Exp391_CD8,,Effector,MP down,7
-Exp391_CD8---MP_up,Exp391_CD8,,Effector,MP up,6
-Exp391_CD8---NAV_dn,Exp391_CD8,,Effector,Naive down,1
+Exp391_CD8---MP_dn,Exp391_CD8,,,,
+Exp391_CD8---MP_up,Exp391_CD8,,Effector,MP up,5
+Exp391_CD8---NAV_dn,Exp391_CD8,,,,
 Exp391_CD8---NAV_up,Exp391_CD8,,Effector,Naive up,0
 Exp391_CD8---TE_biased,Exp391_CD8,,,,
-Exp391_CD8---TE_dn,Exp391_CD8,,Effector,TE down,11
-Exp391_CD8---TE_up,Exp391_CD8,,Effector,TE up,10
+Exp391_CD8---TE_dn,Exp391_CD8,,,,
+Exp391_CD8---TE_up,Exp391_CD8,,Effector,TE up,7
 Exp391_CD8---TRM_biased,Exp391_CD8,,,,
 Exp391_CD8---Tcf7_promoted,Exp391_CD8,,,,
 Exp391_CD8---Tcf7_repressed,Exp391_CD8,,,,
@@ -210,15 +210,15 @@ Exp391_CD8---Tox_promoted,Exp391_CD8,,,,
 Exp391_CD8---Tox_repressed,Exp391_CD8,,,,
 Exp391_CD8---Yao_EXH,Exp391_CD8,,,,
 Exp391_CD8---Yao_MP,Exp391_CD8,,,,
-Exp391_CD8---Yao_PRO,Exp391_CD8,,,,
-Exp391_CD8---best_cluster_1,Exp391_CD8,,Best,Best_1,0
-Exp391_CD8---best_cluster_10,Exp391_CD8,,Best,Best_10,9
-Exp391_CD8---best_cluster_2,Exp391_CD8,,Best,Best_2,1
-Exp391_CD8---best_cluster_3,Exp391_CD8,,Best,Best_3,2
-Exp391_CD8---best_cluster_4,Exp391_CD8,,Best,Best_4,3
-Exp391_CD8---best_cluster_5,Exp391_CD8,,Best,Best_5,4
-Exp391_CD8---best_cluster_6,Exp391_CD8,,Best,Best_6,5
-Exp391_CD8---best_cluster_7,Exp391_CD8,,Best,Best_7,6
+Exp391_CD8---Yao_PRO,Exp391_CD8,,Effector,Tstem,8
+Exp391_CD8---best_cluster_1,Exp391_CD8,,Best,Best_1,9
+Exp391_CD8---best_cluster_10,Exp391_CD8,,Best,Best_10,
+Exp391_CD8---best_cluster_2,Exp391_CD8,,Best,Best_2,3
+Exp391_CD8---best_cluster_3,Exp391_CD8,,Best,Best_3,4
+Exp391_CD8---best_cluster_4,Exp391_CD8,,Best,Best_4,0
+Exp391_CD8---best_cluster_5,Exp391_CD8,,Best,Best_5,1
+Exp391_CD8---best_cluster_6,Exp391_CD8,,Best,Best_6,6
+Exp391_CD8---best_cluster_7,Exp391_CD8,,Best,Best_7,5
 Exp391_CD8---best_cluster_8,Exp391_CD8,,Best,Best_8,7
 Exp391_CD8---best_cluster_9,Exp391_CD8,,Best,Best_9,8
 Exp391_CD8---d5_KLRG1hi_Runx3_promoted,Exp391_CD8,,,,
@@ -227,25 +227,22 @@ Exp391_CD8---d5_KLRG1lo_Runx3_promoted,Exp391_CD8,,,,
 Exp391_CD8---d5_KLRG1lo_Runx3_repressed,Exp391_CD8,,,,
 Exp391_CD8---klf2_promoted,Exp391_CD8,,,,
 Exp391_CD8---klf2_repressed,Exp391_CD8,,,,
-TEM_vs_TCM-TRM,2020_mouse_CD8,,MEM,TEM_vs_TCM-TRM,5
-TCM_vs_TEM-TRM,2020_mouse_CD8,,MEM,TCM_vs_TEM-TRM,4
-TRM_vs_TCM-TEM,2020_mouse_CD8,,MEM,TRM_vs_TCM-TEM,6
 2018_IMMUNITY_Wang---D8EE_vs_D5KLRG1hi_up,2020_mouse_CD8,,,,
 2018_IMMUNITY_Wang---D8TE_vs_D5KLRG1hi_dn,2020_mouse_CD8,,,,
-2018_IMMUNITY_Wang---D5KLRG1hi_vs_Naive_up,2020_mouse_CD8,,,,
+2018_IMMUNITY_Wang---D5KLRG1hi_vs_Naive_up,2020_mouse_CD8,,Effector,Day5KLRG1hi up,3
 2018_IMMUNITY_Wang---D8MP_vs_D5KLRG1hi_up,2020_mouse_CD8,,,,
 2018_IMMUNITY_Wang---D8EE_vs_D5KLRG1hi_dn,2020_mouse_CD8,,,,
 2018_IMMUNITY_Wang---D8TE_vs_D5KLRG1hi_up,2020_mouse_CD8,,,,
 2018_IMMUNITY_Wang---D5KLRG1hi_vs_Naive_dn,2020_mouse_CD8,,,,
 2018_IMMUNITY_Wang---D8TE_vs_D5KLRG1lo_dn,2020_mouse_CD8,,,,
-2016_SCIENCE_Mackay---TRM_vs_TCM-TEM,2020_mouse_CD8,,,,
-2016_SCIENCE_Mackay---TCM_vs_TEM-TRM,2020_mouse_CD8,,,,
-2018_IMMUNITY_Wang---D5KLRG1lo_vs_Naive_up,2020_mouse_CD8,,,,
+2016_SCIENCE_Mackay---TRM_vs_TCM-TEM,2020_mouse_CD8,,MEM,TRM_vs_TCM-TEM,6
+2016_SCIENCE_Mackay---TCM_vs_TEM-TRM,2020_mouse_CD8,,MEM,TCM_vs_TEM-TRM,4
+2018_IMMUNITY_Wang---D5KLRG1lo_vs_Naive_up,2020_mouse_CD8,,Effector,Day5KLRG1lo up,2
 2018_IMMUNITY_Wang---D8MP_vs_D5KLRG1lo_up,2020_mouse_CD8,,,,
 2018_IMMUNITY_Wang---D8MP_vs_D5KLRG1lo_dn,2020_mouse_CD8,,,,
 2018_IMMUNITY_Wang---D5KLRG1lo_vs_Naive_dn,2020_mouse_CD8,,,,
 2018_IMMUNITY_Wang---D8EE_vs_D5KLRG1lo_up,2020_mouse_CD8,,,,
-2016_SCIENCE_Mackay---TEM_vs_TCM-TRM,2020_mouse_CD8,,,,
+2016_SCIENCE_Mackay---TEM_vs_TCM-TRM,2020_mouse_CD8,,MEM,TEM_vs_TCM-TRM,5
 2018_IMMUNITY_Wang---D8TE_vs_D5KLRG1lo_up,2020_mouse_CD8,,,,
 2018_IMMUNITY_Wang---D8MP_vs_D5KLRG1hi_dn,2020_mouse_CD8,,,,
 2018_IMMUNITY_Wang---D8EE_vs_D5KLRG1lo_dn,2020_mouse_CD8,,,,
