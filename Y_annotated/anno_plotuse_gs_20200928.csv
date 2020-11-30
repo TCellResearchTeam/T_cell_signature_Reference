@@ -211,8 +211,8 @@ Exp391_CD8---Tox_repressed,Exp391_CD8,,,,
 Exp391_CD8---Yao_EXH,Exp391_CD8,,,,
 Exp391_CD8---Yao_MP,Exp391_CD8,,,,
 Exp391_CD8---Yao_PRO,Exp391_CD8,,Effector,Tstem,8
-Exp391_CD8---best_cluster_1,Exp391_CD8,,Best,Best_1,9
-Exp391_CD8---best_cluster_10,Exp391_CD8,,Best,Best_10,
+Exp391_CD8---best_cluster_1,Exp391_CD8,,Best,Best_1,2
+Exp391_CD8---best_cluster_10,Exp391_CD8,,Best,Best_10,9
 Exp391_CD8---best_cluster_2,Exp391_CD8,,Best,Best_2,3
 Exp391_CD8---best_cluster_3,Exp391_CD8,,Best,Best_3,4
 Exp391_CD8---best_cluster_4,Exp391_CD8,,Best,Best_4,0
