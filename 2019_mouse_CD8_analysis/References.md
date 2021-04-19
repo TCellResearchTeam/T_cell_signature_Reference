@@ -74,6 +74,7 @@
 		- Day8: MP (CD127+ KLRG1-) / TE (KLRG1+ CD127-) / KLRG1hi
 - Sequencing: Illumina HiSeq 2500 Pair-end
 - To do: Differential analysis
+- Not used
 
 7. [Wu, Tuoqi, et al. "The TCF1-Bcl6 axis counteracts type I interferon to repress exhaustion and maintain T cell stemness." *Science immunology* 1.6 (2016).](https://immunology.sciencemag.org/content/1/6/eaai8593f)
 - Info: <br>
